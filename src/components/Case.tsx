@@ -44,7 +44,7 @@ export function Case({ title, imagePath, companyLogoPath, companyName, prize, de
         
         <div className="p-6">
           <div className="flex items-start justify-between mb-2">
-            <h3 className="text-xl font-semibold text-white group-hover:text-blue-400 transition-colors">
+            <h3 className="text-xl font-semibold text-palette-light-green group-hover:text-white transition-colors">
               {title}
             </h3>
             <ArrowUpRight className="h-5 w-5 text-zinc-400 group-hover:text-white group-hover:rotate-45 transition-all duration-200" />

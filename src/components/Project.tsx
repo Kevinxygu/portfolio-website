@@ -15,7 +15,7 @@ interface ProjectProps {
 
 export function Project({ title, imagePath, githubLink, tags, prize, description }: ProjectProps) {
   return (
-    <Card className="bg-zinc-900/50 border-zinc-800 h-full group overflow-hidden transition-all duration-200 hover:scale-105 hover:rotate-1">
+    <Card className="h-full group overflow-hidden transition-all duration-200 hover:scale-105 hover:rotate-1">
       <CardContent className="p-0">
         <div className="relative h-48 overflow-hidden">
           <Image
@@ -36,7 +36,7 @@ export function Project({ title, imagePath, githubLink, tags, prize, description
         
         <div className="p-6">
           <div className="flex items-start justify-between mb-3">
-            <h3 className="text-xl font-semibold text-white group-hover:text-blue-400 transition-colors">
+            <h3 className="text-xl font-semibold text-palette-light-green group-hover:text-white transition-colors">
               {title}
             </h3>
             <Link 
@@ -53,14 +53,14 @@ export function Project({ title, imagePath, githubLink, tags, prize, description
             {tags.map((tag, index) => (
               <span
                 key={index}
-                className="bg-zinc-800/60 px-2.5 py-1 rounded-md text-xs text-zinc-300 font-medium"
+                className="bg-palette-tan px-2.5 py-1 rounded-md text-xs text-palette-dark-green font-medium"
               >
                 {tag}
               </span>
             ))}
           </div>
           
-          <p className="text-zinc-400 text-sm leading-relaxed">
+          <p className="text-white text-sm leading-relaxed">
             {description}
           </p>
         </div>

@@ -38,7 +38,7 @@ export function Experience({ title, imagePath, tags, description, link }: Experi
           
           <div className="p-6">
             <div className="flex items-start justify-between mb-3">
-              <h3 className="text-xl font-semibold text-white group-hover:text-blue-400 transition-colors">
+              <h3 className="text-xl font-semibold text-palette-light-green group-hover:text-white transition-colors">
                 {title}
               </h3>
               {link && (
