@@ -1,0 +1,90 @@
+{
+  "experiences": [
+    {
+      "title": "Software Engineer Intern @ TELUS",
+      "imagePath": "/images/experience/telus-office.jpg",
+      "tags": [
+        { "name": "Python", "icon": "/icons/python.svg" },
+        { "name": "TypeScript", "icon": "/icons/typescript.svg" },
+        { "name": "React", "icon": "/icons/react.svg" },
+        { "name": "Docker", "icon": "/icons/docker.svg" }
+      ],
+      "description": "Developed and maintained web applications using modern technologies, contributing to digital transformation initiatives and improving user experience for millions of customers.",
+      "link": "/experience/telus"
+    },
+    {
+      "title": "Full Stack Developer @ StartupXYZ",
+      "imagePath": "/images/experience/startup.jpg",
+      "tags": [
+        { "name": "Next.js", "icon": "/icons/nextjs.svg" },
+        { "name": "PostgreSQL", "icon": "/icons/postgresql.svg" },
+        { "name": "AWS", "icon": "/icons/aws.svg" }
+      ],
+      "description": "Built scalable web applications from scratch, implemented CI/CD pipelines, and collaborated with cross-functional teams to deliver high-quality software solutions.",
+      "link": "/experience/startup"
+    }
+  ],
+  "projects": [
+    {
+      "title": "TELUS Form Coach",
+      "imagePath": "/images/projects/form-coach.jpg",
+      "githubLink": "https://github.com/yourusername/telus-form-coach",
+      "tags": ["Python", "TensorFlow", "React", "Node.js", "Machine Learning"],
+      "prize": "1st Place - TELUS Data & AI Hackathon",
+      "description": "An AI-powered form validation tool that helps users complete forms more efficiently with real-time suggestions and error detection using natural language processing."
+    },
+    {
+      "title": "Smart Budget Tracker",
+      "imagePath": "/images/projects/budget-tracker.jpg",
+      "githubLink": "https://github.com/yourusername/budget-tracker",
+      "tags": ["Swift", "SwiftUI", "Core Data", "iOS"],
+      "description": "A comprehensive iOS budgeting application with intelligent categorization, spending insights, and goal tracking features built with SwiftUI."
+    },
+    {
+      "title": "Community Connect Platform",
+      "imagePath": "/images/projects/community-connect.jpg",
+      "githubLink": "https://github.com/yourusername/community-connect",
+      "tags": ["Next.js", "Supabase", "TypeScript", "Tailwind CSS"],
+      "prize": "Best Social Impact - UBC Hackathon",
+      "description": "A platform connecting local volunteers with community organizations, featuring real-time matching and impact tracking."
+    }
+  ],
+  "cases": [
+    {
+      "title": "VSEUS x 180 Degrees Case Competition",
+      "imagePath": "/images/cases/vseus-competition.jpg",
+      "companyLogoPath": "/images/logos/vseus.png",
+      "companyName": "VSEUS",
+      "prize": "1st Place - Strategy Track",
+      "description": "Developed a comprehensive go-to-market strategy for a B2B SaaS startup looking to expand into the Canadian market, including competitive analysis and financial projections."
+    },
+    {
+      "title": "Digital Marketing Case Competition",
+      "imagePath": "/images/cases/digital-marketing.jpg",
+      "companyLogoPath": "/images/logos/180-degrees.png",
+      "companyName": "180 Degrees Consulting",
+      "prize": "2nd Place - Digital Strategy",
+      "description": "Created an integrated digital marketing strategy for a non-profit organization, focusing on social media optimization and donor acquisition."
+    }
+  ],
+  "extracurriculars": [
+    {
+      "title": "nwPlus",
+      "description": "Western Canada's largest hackathon organization, fostering innovation and creativity in the tech community through events like HackCamp and cmd-f.",
+      "imagePath": "/images/extracurricular/nwplus-team.jpg",
+      "roles": ["Treasurer", "Sponsorship Lead", "Sponsorship Coordinator"]
+    },
+    {
+      "title": "UBC Marketing Association",
+      "description": "Student organization dedicated to connecting students with marketing opportunities and industry professionals through workshops and networking events.",
+      "imagePath": "/images/extracurricular/ubcma.jpg",
+      "roles": ["VP External", "Event Coordinator"]
+    },
+    {
+      "title": "Code the Change UBC",
+      "description": "Non-profit organization that partners with local charities and NGOs to build technology solutions that create positive social impact.",
+      "imagePath": "/images/extracurricular/code-the-change.jpg",
+      "roles": ["Technical Lead", "Project Manager"]
+    }
+  ]
+}
