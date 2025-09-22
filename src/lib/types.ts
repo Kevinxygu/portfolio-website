@@ -1,4 +1,4 @@
-// lib/types.ts
+// types for portfolio data
 
 export interface Tag {
   name: string;
