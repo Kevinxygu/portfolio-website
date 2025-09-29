@@ -113,11 +113,11 @@ export default function HomePage() {
       {/* portfolio */}
       <section className="py-16 px-8 md:px-16 lg:px-24">
         <div className="max-w-7xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-semibold mb-8 text-[#4a9d83]">Portfolio</h2>
+          <h2 className="text-2xl md:text-3xl font-semibold mb-8 text-palette-medium-green">Portfolio</h2>
 
           {/* technical projects */}
           <div className="mb-12">
-            <h3 className="text-xl font-medium mb-6 text-zinc-300">Technical Projects</h3>
+            <h3 className="text-xl font-medium mb-6 text-palette-medium-green">Technical Projects</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               {projects.map((project, index) => (
                 <Project key={index} {...project} />
@@ -127,7 +127,7 @@ export default function HomePage() {
 
           {/* cases */}
           <div className="mb-12">
-            <h3 className="text-xl font-medium mb-6 text-zinc-300">Case Studies and Competitions</h3>
+            <h3 className="text-xl font-medium mb-6 text-palette-medium-green">Case Studies and Competitions</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               {cases.map((caseStudy, index) => (
                 <Case key={index} {...caseStudy} />
@@ -140,7 +140,7 @@ export default function HomePage() {
       {/* community */}
       <section className="py-16 px-8 md:px-16 lg:px-24">
         <div className="max-w-7xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-semibold mb-8 text-[#4a9d83]">Community Involvement</h2>
+          <h2 className="text-2xl md:text-3xl font-semibold mb-8 text-palette-medium-green">Community Involvement</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {extracurriculars.map((activity, index) => (
               <Extracurricular key={index} {...activity} />

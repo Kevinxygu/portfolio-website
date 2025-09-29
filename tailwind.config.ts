@@ -23,6 +23,10 @@ const config: Config = {
           'medium-green': '#8EB69B',
         }
       },
+      fontFamily: {
+        'ibm-plex-sans': ['var(--font-ibm-plex-sans)', 'sans-serif'],
+        'ibm-plex-mono': ['var(--font-ibm-plex-mono)', 'monospace'],
+      }
     },
   },
   plugins: [],

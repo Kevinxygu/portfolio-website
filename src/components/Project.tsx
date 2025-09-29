@@ -14,21 +14,21 @@ interface ProjectProps {
 
 export function Project({ title, imagePath, githubLink, tags, prize, description }: ProjectProps) {
   return (
-    <Card className="h-full group overflow-hidden transition-all duration-200 hover:scale-105 hover:rotate-1">
+    <Card className="h-full group overflow-hidden transition-all duration-200 hover:scale-105 hover:rotate-1 border-[#36573F]">
       <CardContent className="p-0">
-        <div className="relative h-48 overflow-hidden">
+        <div className="relative h-96 overflow-hidden">
           <Image
             src={imagePath}
             alt={title}
-            width={400}
-            height={200}
+            width={500}
+            height={500}
             className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-zinc-900 via-zinc-900/20 to-transparent" />
+          <div className="absolute inset-0" />
           
           {prize && (
-            <div className="absolute top-4 left-4 bg-amber-500/90 backdrop-blur-sm px-3 py-1.5 rounded-full">
-              <span className="text-black text-sm font-medium">🏆 {prize}</span>
+            <div className="absolute top-4 left-4 bg-palette-light-green backdrop-blur-sm px-3 py-1.5 rounded-full">
+              <span className="text-palette-dark-green text-sm font-medium">🏆 - {prize}</span>
             </div>
           )}
         </div>
@@ -58,14 +58,14 @@ export function Project({ title, imagePath, githubLink, tags, prize, description
             {tags.map((tag, index) => (
               <span
                 key={index}
-                className="bg-palette-tan px-2.5 py-1 rounded-md text-xs text-palette-dark-green font-medium"
+                className="bg-palette-tan font-mono px-2.5 py-1 rounded-md text-xs text-palette-dark-green font-light"
               >
                 {tag}
               </span>
             ))}
           </div>
           
-          <p className="text-white text-sm leading-relaxed">
+          <p className="text-white text-base leading-relaxed font-light">
             {description}
           </p>
         </div>

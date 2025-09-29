@@ -74,26 +74,34 @@
   "projects": [
     {
       "title": "TELUS Form Coach",
-      "imagePath": "/images/projects/form-coach.jpg",
+      "imagePath": "/images/projects/form-coach-banner.gif",
       "githubLink": "https://github.com/yourusername/telus-form-coach",
-      "tags": ["Python", "TensorFlow", "React", "Node.js", "Machine Learning"],
+      "tags": ["python", "typescript", "javascript", "tensorflow", "reactjs", "nextjs", "nodejs", "movenet", "tailwindcss", "pandas", "numpy", "scikit-learn"],
       "prize": "1st Place - TELUS Data & AI Hackathon",
-      "description": "An AI-powered form validation tool that helps users complete forms more efficiently with real-time suggestions and error detection using natural language processing."
+      "description": "A new feature on the TELUS Health & Wellbeing app that evaluates your exercise form with computer vision. After winning, our team is now exploring ways to integrate this solution into existing TELUS products and services!"
     },
     {
-      "title": "Smart Budget Tracker",
-      "imagePath": "/images/projects/budget-tracker.jpg",
-      "githubLink": "https://github.com/yourusername/budget-tracker",
-      "tags": ["Swift", "SwiftUI", "Core Data", "iOS"],
-      "description": "A comprehensive iOS budgeting application with intelligent categorization, spending insights, and goal tracking features built with SwiftUI."
+      "title": "Nerve",
+      "imagePath": "/images/projects/nerve-banner.gif",
+      "githubLink": "https://github.com/kevinxiao27/productx",
+      "tags": ["python", "typescript", "javascript", "tensorflow", "ngrok", "socket.io", "assemblyai", "supabase", "nextjs", "reactjs", "expressjs", "openai", "tailwindcss", "mapbox", "nodejs"],
+      "prize": "2nd Place + Startup Winner - UBC ProductX",
+      "description": "Competed alongside three other Kevins. A real-time monitoring dashboard for emergency dispatch units, powered with sentiment analysis and critical event detection. We modernized existing legacy systems that are outdated and have lead to lost lives, lost time, and lost resources."
     },
     {
-      "title": "Community Connect Platform",
-      "imagePath": "/images/projects/community-connect.jpg",
-      "githubLink": "https://github.com/yourusername/community-connect",
-      "tags": ["Next.js", "Supabase", "TypeScript", "Tailwind CSS"],
-      "prize": "Best Social Impact - UBC Hackathon",
-      "description": "A platform connecting local volunteers with community organizations, featuring real-time matching and impact tracking."
+      "title": "HackHarvard @ Harvard University",
+      "imagePath": "/images/projects/hackharvard-banner.png",
+      "githubLink": "https://hackharvard.io/",
+      "tags": [],
+      "description": "Stay tuned! Will be at HackHarvard 2025"
+    },
+    {
+      "title": "Meme-o-Tron",
+      "imagePath": "/images/projects/meme-o-tron-banner.png",
+      "githubLink": "https://meme-o-tron.vercel.app/",
+      "tags": ["typescript", "javascript", "reactjs", "nextjs", "tailwindcss", "openai", "json", "vercel"],
+      "prize": "Winner - BUCS Hackathon",
+      "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and we'll see what meme you look like :)"
     }
   ],
   "cases": [
