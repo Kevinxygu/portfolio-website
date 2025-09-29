@@ -1,6 +1,5 @@
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { Github, ArrowUpRight } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
 
@@ -43,9 +42,15 @@ export function Project({ title, imagePath, githubLink, tags, prize, description
               href={githubLink}
               target="_blank"
               rel="noopener noreferrer"
-              className="p-2 rounded-full bg-zinc-800 hover:bg-zinc-700 transition-colors"
+              className="p-2 rounded-fullnsition-colors"
             >
-              <Github className="h-4 w-4 text-zinc-300 hover:text-white" />
+              <Image
+                src="/icons/github.png"
+                alt="github"
+                width={32}
+                height={32}
+                className="w-8 h-8"
+              />
             </Link>
           </div>
           
