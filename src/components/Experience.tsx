@@ -22,18 +22,19 @@ export function Experience({ title, imagePath, tags, description, link }: Experi
     <CardWrapper
       href={link || ''}
       className={`block transition-all duration-200 ${link ? 'hover:scale-105 hover:rotate-1' : ''}`}
+      {...(link ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
     >
-      <Card className="bg-zinc-900/50 border-zinc-800 h-full group overflow-hidden">
+      <Card className="border-[#36573F] h-full group overflow-hidden">
         <CardContent className="p-0">
-          <div className="relative h-48 overflow-hidden">
+          <div className="relative h-96 overflow-hidden">
             <Image
               src={imagePath}
               alt={title}
-              width={400}
-              height={200}
+              width={465}
+              height={615}
               className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-zinc-900 via-zinc-900/20 to-transparent" />
+            <div className="absolute inset-0" />
           </div>
           
           <div className="p-6">
@@ -50,23 +51,23 @@ export function Experience({ title, imagePath, tags, description, link }: Experi
               {tags.map((tag, index) => (
                 <div
                   key={index}
-                  className="flex items-center gap-2 bg-zinc-800/80 px-3 py-1.5 rounded-full text-sm text-zinc-300"
+                  className="flex items-center gap-2 px-3 py-1.5 rounded-full text-sm text-white border-2 border-white"
                 >
                   {tag.icon && (
-                    <Image
-                      src={tag.icon}
-                      alt={tag.name}
-                      width={16}
-                      height={16}
-                      className="w-4 h-4"
-                    />
+                  <Image
+                    src={tag.icon}
+                    alt={tag.name}
+                    width={16}
+                    height={16}
+                    className="w-4 h-4"
+                  />
                   )}
                   {tag.name}
                 </div>
               ))}
             </div>
             
-            <p className="text-zinc-400 text-sm leading-relaxed">
+            <p className="text-white text-base leading-relaxed font-light">
               {description}
             </p>
           </div>

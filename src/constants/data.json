@@ -1,27 +1,74 @@
 {
   "experiences": [
-    {
-      "title": "Software Engineer Intern @ TELUS",
-      "imagePath": "/images/experience/telus-office.jpg",
+     {
+      "title": "Career Peer Advisor @ UBC Sauder Business Career Centre",
+      "imagePath": "/images/experience/cpa-banner.png",
       "tags": [
-        { "name": "Python", "icon": "/icons/python.svg" },
-        { "name": "TypeScript", "icon": "/icons/typescript.svg" },
-        { "name": "React", "icon": "/icons/react.svg" },
-        { "name": "Docker", "icon": "/icons/docker.svg" }
-      ],
-      "description": "Developed and maintained web applications using modern technologies, contributing to digital transformation initiatives and improving user experience for millions of customers.",
-      "link": "/experience/telus"
+        { "name": "Coaching + Mentorship", "icon": "/icons/coaching-mentorship.png" },
+        { "name": "Community", "icon": "/icons/community.png" }],
+      "description": "I'm 1 of 9 students coaching UBC Sauder students, with a focus on the BUCS (business + computer science) path!",
+      "link": "https://mybcom.sauder.ubc.ca/career-experience/career-coaching/career-peer-advisors"
     },
     {
-      "title": "Full Stack Developer @ StartupXYZ",
-      "imagePath": "/images/experience/startup.jpg",
+      "title": "Software Engineer Intern @ TELUS",
+      "imagePath": "/images/experience/telus-banner.png",
       "tags": [
-        { "name": "Next.js", "icon": "/icons/nextjs.svg" },
-        { "name": "PostgreSQL", "icon": "/icons/postgresql.svg" },
-        { "name": "AWS", "icon": "/icons/aws.svg" }
+        { "name": "Python", "icon": "/icons/python.png" },
+        { "name": "TypeScript", "icon": "/icons/typescript.png" },
+        { "name": "Automation", "icon": "/icons/automation.png" },
+        { "name": "AI Tools", "icon": "/icons/ai-tools.png" }
       ],
-      "description": "Built scalable web applications from scratch, implemented CI/CD pipelines, and collaborated with cross-functional teams to deliver high-quality software solutions.",
-      "link": "/experience/startup"
+      "description": "Drove automation and AI innovation for the Ops Capital Management team managing a billion-dollar budget.",
+      "link": "https://www.telus.com/en/about"
+    },
+    {
+      "title": "Solutions Engineer Intern @ Trulioo",
+      "imagePath": "/images/experience/trulioo-banner.png",
+      "tags": [
+        { "name": "Mobile", "icon": "/icons/mobile.png" },
+        { "name": "TypeScript", "icon": "/icons/typescript.png" },
+        { "name": "AI Tools", "icon": "/icons/ai-tools.png" },
+        { "name": "Sales", "icon": "/icons/sales.png" },
+        { "name": "Salesforce", "icon": "/icons/salesforce.webp" }
+
+      ],
+      "description": "Supported B2B SaaS sales deals as technical experts for Trulioo: an identity verification unicorn!",
+      "link": "https://www.trulioo.com/"
+    },
+    {
+      "title": "Software Engineer + Business Systems Analyst Co-op @ ICBC",
+      "imagePath": "/images/experience/icbc-banner.png",
+      "tags": [
+        { "name": "Python", "icon": "/icons/python.png" },
+        { "name": "Automation", "icon": "/icons/automation.png" },
+        { "name": "Docker", "icon": "/icons/docker.png" }
+      ],
+      "description": "Built automation tools for ICBC’s Business Innovation and RPA team. Became first co-op to adopt a dual software engineer / business systems analyst role.",
+      "link": "https://icbc.com/"
+    },
+    {
+      "title": "Software Engineer Intern @ Cyberium Group",
+      "imagePath": "/images/experience/cyberium-banner.png",
+      "tags": [
+        { "name": "Python", "icon": "/icons/python.png" },
+        { "name": "AWS", "icon": "/icons/aws.png" },
+        { "name": "Azure", "icon": "/icons/azure.png" },
+        { "name": "Cybersecurity", "icon": "/icons/cybersecurity.png" },
+        { "name": "Databricks", "icon": "/icons/databricks.png" }
+
+      ],
+      "description": "Implemented governance, risk, and compliance solutions for clients in a nimble 10-person startup.",
+      "link": "https://www.cyberiumgroup.com/"
+    },
+    {
+      "title": "COMM 190 TA @ UBC Sauder",
+      "imagePath": "/images/experience/ta-banner.png",
+      "tags": [
+        { "name": "Excel + Linear Programming", "icon": "/icons/excel.png" },
+        { "name": "Coaching + Teaching", "icon": "/icons/coaching-mentorship.png" },
+        { "name": "Community", "icon": "/icons/community.png" }],
+      "description": "TA'd COMM 190: Quantitative Decision Analysis, Linear Programming + Probability after scoring 100 in the course.",
+      "link": "https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-190"
     }
   ],
   "projects": [
