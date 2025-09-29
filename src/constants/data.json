@@ -102,6 +102,13 @@
       "tags": ["typescript", "javascript", "reactjs", "nextjs", "tailwindcss", "openai", "json", "vercel"],
       "prize": "Winner - BUCS Hackathon",
       "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and we'll see what meme you look like :)"
+    },
+    {
+      "title": "Cal Hacks 12.0 @ UC Berkeley",
+      "imagePath": "/images/projects/calhacks-banner.png",
+      "githubLink": "https://calhacks.io/",
+      "tags": [],
+      "description": "Stay tuned! Will be at Cal Hacks 2025"
     }
   ],
   "cases": [
