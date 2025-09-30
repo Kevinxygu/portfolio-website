@@ -47,7 +47,7 @@ export function Case({ title, imagePath, companyLogoPath, companyName, prize, de
               className="w-16 h-16 object-contain rounded-xl"
             />
             <span className="text-palette-tan text-l font-light pl-2">{companyName}</span>
-          </div>=
+          </div>
           
           <p className="text-white text-base leading-relaxed font-light">
             {description}
