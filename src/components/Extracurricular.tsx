@@ -11,17 +11,17 @@ interface ExtracurricularProps {
 
 export function Extracurricular({ title, description, imagePath, roles }: ExtracurricularProps) {
   return (
-    <Card className="bg-zinc-900/50 border-zinc-800 h-full group overflow-hidden transition-all duration-200 hover:scale-105 hover:rotate-1">
+    <Card className="h-full group overflow-hidden transition-all duration-200 hover:scale-105 hover:rotate-1 border-[#36573F]">
       <CardContent className="p-0">
         <div className="relative h-48 overflow-hidden">
           <Image
             src={imagePath}
             alt={title}
-            width={400}
-            height={200}
+            width={600}
+            height={600}
             className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-zinc-900 via-zinc-900/20 to-transparent" />
+          <div className="absolute inset-0" />
         </div>
         
         <div className="p-6">
@@ -32,16 +32,16 @@ export function Extracurricular({ title, description, imagePath, roles }: Extrac
             <ArrowUpRight className="h-5 w-5 text-zinc-400 group-hover:text-white group-hover:rotate-45 transition-all duration-200" />
           </div>
           
-          <p className="text-zinc-400 text-sm leading-relaxed mb-4">
+          <p className="text-white text-sm leading-relaxed mb-4">
             {description}
           </p>
           
           <div className="space-y-2">
-            <h4 className="text-zinc-300 font-medium text-sm">Previous Roles:</h4>
+            <h4 className="text-palette-light-green font-medium text-sm">Roles:</h4>
             <ul className="space-y-1">
               {roles.map((role, index) => (
-                <li key={index} className="text-zinc-400 text-sm flex items-center">
-                  <span className="w-1.5 h-1.5 bg-blue-400 rounded-full mr-3 flex-shrink-0"></span>
+                <li key={index} className="text-white text-sm flex items-center">
+                  <span className="w-1.5 h-1.5 bg-palette-medium-green rounded-full mr-3 flex-shrink-0"></span>
                   {role}
                 </li>
               ))}

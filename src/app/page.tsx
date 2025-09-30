@@ -5,7 +5,6 @@ import { Extracurricular } from '@/components/Extracurricular';
 import { Button } from '@/components/ui/button';
 import Image from 'next/image';
 import data from '../constants/data.json'
-import { Github, Linkedin, Mail } from 'lucide-react'
 
 export default function HomePage() {
   
@@ -27,7 +26,7 @@ export default function HomePage() {
               I'm Kevin
             </h1>
             <p className="text-lg md:text-xl text-zinc-300 mb-8 max-w-xl">
-              I like software engineering, sales, and supporting my community.
+              I like software engineering, sales, and supporting my community by building experiences for them!
             </p>
             
             {/* socials */}
@@ -79,7 +78,7 @@ export default function HomePage() {
             {/* cpa plug */}
             <div className="w-full">
               <p className="text-zinc-300 text-sm mb-4">
-                If you're a Sauder student and want to chat, feel free to book a time with me through COOL!
+                If you're a UBC Sauder student and want to chat, feel free to book a time with me through COOL!
               </p>
                 <a 
                 href="https://mybcom.sauder.ubc.ca/career-experience/career-resources/cool-career-platform" 

@@ -101,7 +101,7 @@
       "githubLink": "https://meme-o-tron.vercel.app/",
       "tags": ["typescript", "javascript", "reactjs", "nextjs", "tailwindcss", "openai", "json", "vercel", "computer vision"],
       "prize": "Winner - BUCS Hackathon",
-      "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and prepare to get roasted"
+      "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and prepare to get roasted."
     },
         {
       "title": "UBC Esports Lounge App",
@@ -109,7 +109,7 @@
       "githubLink": "https://github.com/ubcesports/lounge-hub/",
       "tags": ["typescript", "javascript", "golang", "postgresql", "aws ec2", "docker", "reactjs", "nextjs", "tailwindcss", "ci/cd", "github actions", "vercel"],
       "prize": "UBC Esports Best Internal Department",
-      "description": "Replaced a manual lounge check-in process with a sleek web app! Currently exploring a new monorepo architecture for the backend as we roll out new features"
+      "description": "Replaced a manual lounge check-in process with a sleek web app! Currently exploring a new monorepo architecture for the backend as we roll out new features for UBC's gaming community."
     },
     {
       "title": "Cal Hacks 12.0 @ UC Berkeley",
@@ -163,7 +163,7 @@
       "companyLogoPath": "/images/logos/telus.png",
       "companyName": "TELUS",
       "prize": "2nd Place (Senior Case)",
-      "description": "Implemented a master rebrand for TELUS to showcase its diverse product lines to help them STAND OUT, SHARE OUT, and HELP OUT."
+      "description": "Implemented a master rebrand for TELUS to showcase its diverse product lines and help them STAND OUT, SHARE OUT, and HELP OUT."
     },
     {
       "title": "UBC Product Sprint Product Challenge",
@@ -212,21 +212,57 @@
   "extracurriculars": [
     {
       "title": "nwPlus",
-      "description": "Western Canada's largest hackathon organization, fostering innovation and creativity in the tech community through events like HackCamp and cmd-f.",
-      "imagePath": "/images/extracurricular/nwplus-team.jpg",
+      "description": "We're Western Canada's largest hackathon organizer, with 3 every year: HackCamp, nwHacks, and cmd-f. We're MLH-affiliated, supporting 1250+ hackers across our events!",
+      "imagePath": "/images/extracurricular/nwplus-banner.png",
       "roles": ["Treasurer", "Sponsorship Lead", "Sponsorship Coordinator"]
     },
     {
-      "title": "UBC Marketing Association",
-      "description": "Student organization dedicated to connecting students with marketing opportunities and industry professionals through workshops and networking events.",
-      "imagePath": "/images/extracurricular/ubcma.jpg",
-      "roles": ["VP External", "Event Coordinator"]
+      "title": "UBC Marketing Association (UBCMA)",
+      "description": "We're UBC's only marketing focused student club, bringing you events and opportunities to learn about marketing, network with industry professionals, and build your skills.",
+      "imagePath": "/images/extracurricular/ubcma-banner.png",
+      "roles": ["Software Engineer", "Senior Pro Bono Consultant - Studios"]
     },
     {
-      "title": "Code the Change UBC",
-      "description": "Non-profit organization that partners with local charities and NGOs to build technology solutions that create positive social impact.",
-      "imagePath": "/images/extracurricular/code-the-change.jpg",
-      "roles": ["Technical Lead", "Project Manager"]
+      "title": "UBC Esports Association (UBCEA)",
+      "description": "UBC's gaming club! We host events, tournaments, and come by the gaming lounge in the Nest to unwind between (or during) your classes.",
+      "imagePath": "/images/extracurricular/ubcea-banner.png",
+      "roles": ["Software Engineer", "Product Manager", "External Relations"]
+    },
+    {
+      "title": "Sauder Summit International Case Competition",
+      "description": "Annual case competition hosted by the Sauder School of Business, bringing together top students from around the world to solve real business challenges.",
+      "imagePath": "/images/extracurricular/summit-banner.png",
+      "roles": ["Competitions Director"]
+    },
+    {
+      "title": "Enactus UBC",
+      "description": "We're UBC's branch for Enactus, a global non-profit organization dedicated to inspiring students to improve the world through entrepreneurial action.",
+      "imagePath": "/images/extracurricular/enactus-banner.png",
+      "roles": ["Tech Advisor", "Lead Software Engineer", "Ennovate Tech Lead", "Ennovate Project Associate"]
+    },
+    {
+      "title": "National Strategy Consulting Case Competition & Conference (NSCC)",
+      "description": "Sauder's top case competition 2025! We're Canada's premier strategy case competition and conference for all things consulting.",
+      "imagePath": "/images/extracurricular/nscc-banner.png",
+      "roles": ["Conference Associate", "Conference Experience Coordinator (CEC)"]
+    },
+    {
+      "title": "HelloHacks by UBC BizTech",
+      "description": "A beginner-friendly hackathon hosted by UBC BizTech, one of UBC's largest tech clubs.",
+      "imagePath": "/images/extracurricular/biztech-banner.png",
+      "roles": ["Hackathon Mentor"]
+    },
+    {
+      "title": "BUCS Community Team",
+      "description": "Fostering community and events for UBC Sauder's business and computer science (BUCS) students.",
+      "imagePath": "/images/extracurricular/bucs-banner.png",
+      "roles": ["Chair", "First Year Rep"]
+    },
+    {
+      "title": "UBC Sauder Orientations",
+      "description": "Welcoming first years to UBC Sauder with fun events, mentorship, and community building!",
+      "imagePath": "/images/extracurricular/ol-banner.png",
+      "roles": ["Orientation Leader - 2024", "Orientation Leader - 2023"]
     }
   ]
 }
