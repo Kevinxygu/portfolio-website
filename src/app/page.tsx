@@ -142,7 +142,7 @@ export default function HomePage() {
           {/* cases */}
           <div className="mb-12">
             <h3 className="text-xl font-medium mb-6 text-palette-medium-green">Case Studies and Competitions</h3>
-            <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
               {cases.map((caseStudy, index) => (
                 <Case key={index} {...caseStudy} />
               ))}
