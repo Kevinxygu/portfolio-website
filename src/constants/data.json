@@ -143,19 +143,56 @@
   "cases": [
     {
       "title": "VSEUS x 180 Degrees Case Competition",
-      "imagePath": "/images/cases/vseus-competition.jpg",
-      "companyLogoPath": "/images/logos/vseus.png",
-      "companyName": "VSEUS",
-      "prize": "1st Place - Strategy Track",
-      "description": "Developed a comprehensive go-to-market strategy for a B2B SaaS startup looking to expand into the Canadian market, including competitive analysis and financial projections."
+      "imagePath": "/images/cases/teaboco-banner.png",
+      "companyLogoPath": "/images/logos/teaboco.png",
+      "companyName": "Teaboco",
+      "prize": "1st Place Overall",
+      "description": "Presented recommendations to increase Teaboco's UBC presence and obtain a B Corp Certification through influencer marketing and in-person campus partnerships"
     },
     {
-      "title": "Digital Marketing Case Competition",
-      "imagePath": "/images/cases/digital-marketing.jpg",
-      "companyLogoPath": "/images/logos/180-degrees.png",
-      "companyName": "180 Degrees Consulting",
-      "prize": "2nd Place - Digital Strategy",
-      "description": "Created an integrated digital marketing strategy for a non-profit organization, focusing on social media optimization and donor acquisition."
+      "title": "UBC Imprint Marketing Case Competition Final Round",
+      "imagePath": "/images/cases/imprint-banner.png",
+      "companyLogoPath": "/images/logos/telus.png",
+      "companyName": "TELUS",
+      "prize": "2nd Place (Senior Case)",
+      "description": "Tackled new product growth for TELUS MyPet by implementing an AI Assistant, introducing hybrid pricing, designing a new vet directory and funding partnerships."
+    },
+    {
+      "title": "UBC Imprint Marketing Case Competition Preliminary Round",
+      "imagePath": "/images/cases/imprint-prelim-banner.png",
+      "companyLogoPath": "/images/logos/telus.png",
+      "companyName": "TELUS",
+      "prize": "2nd Place (Senior Case)",
+      "description": "Implemented a master rebrand for TELUS to showcase its diverse product lines to help them STAND OUT, SHARE OUT, and HELP OUT."
+    },
+    {
+      "title": "UBC Product Sprint Product Challenge",
+      "imagePath": "/images/cases/hootsuite-banner.png",
+      "companyLogoPath": "/images/logos/hootsuite.png",
+      "companyName": "Hootsuite",
+      "prize": "2nd Place (Hootsuite Challenge)",
+      "description": "Presented Hootsuite Connect: A new feature to connect brand influencers with businesses to create authentic social media content."
+    },
+    {
+      "title": "UBC eProjects Pitchathon",
+      "imagePath": "/images/cases/eprojects-banner.png",
+      "companyLogoPath": "/images/logos/microsoft.png",
+      "companyName": "Microsoft",
+      "description": "Presented a new city-wide dispatch system for emergency services to reduce response times and save lives, implemented with Microsoft Azure IoT services"
+    },
+    {
+      "title": "Uber Digital Innovation",
+      "imagePath": "/images/cases/uber-banner.png",
+      "companyLogoPath": "/images/logos/uber.png",
+      "companyName": "Uber",
+      "description": "Presented a two-pronged approach: Uber For Us and Uber For You to tackle regulatory hurdles, driver trust, and geographic variance."
+    },
+    {
+      "title": "UBCMA Studios Pro Bono Consulting",
+      "imagePath": "/images/cases/studios-banner.png",
+      "companyLogoPath": "/images/logos/fashionoise.png",
+      "companyName": "Fashionoise",
+      "description": "Presented a two-pronged approach: Uber For Us and Uber For You to tackle regulatory hurdles, driver trust, and geographic variance."
     }
   ],
   "extracurriculars": [
