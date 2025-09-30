@@ -57,7 +57,7 @@
         { "name": "Databricks", "icon": "/icons/databricks.png" }
 
       ],
-      "description": "Implemented governance, risk, and compliance solutions for clients in a nimble 10-person startup.",
+      "description": "Implemented governance, risk, and compliance solutions for clients in a nimble 10-person cybersecurity startup.",
       "link": "https://www.cyberiumgroup.com/"
     },
     {
@@ -101,7 +101,7 @@
       "githubLink": "https://meme-o-tron.vercel.app/",
       "tags": ["typescript", "javascript", "reactjs", "nextjs", "tailwindcss", "openai", "json", "vercel", "computer vision"],
       "prize": "Winner - BUCS Hackathon",
-      "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and we'll see what meme you look like :)"
+      "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and prepare to get roasted"
     },
         {
       "title": "UBC Esports Lounge App",
