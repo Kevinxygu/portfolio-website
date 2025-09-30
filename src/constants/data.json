@@ -142,7 +142,7 @@
   ],
   "cases": [
     {
-      "title": "VSEUS x 180 Degrees Case Competition",
+      "title": "VSEUS x 180 Degrees Consulting Case Competition",
       "imagePath": "/images/cases/teaboco-banner.png",
       "companyLogoPath": "/images/logos/teaboco.png",
       "companyName": "Teaboco",
@@ -181,7 +181,7 @@
       "description": "Presented a new city-wide dispatch system for emergency services to reduce response times and save lives, implemented with Microsoft Azure IoT services"
     },
     {
-      "title": "Uber Digital Innovation",
+      "title": "JDC West Summer Development Initial Case Round",
       "imagePath": "/images/cases/uber-banner.png",
       "companyLogoPath": "/images/logos/uber.png",
       "companyName": "Uber",
@@ -192,7 +192,14 @@
       "imagePath": "/images/cases/studios-banner.png",
       "companyLogoPath": "/images/logos/fashionoise.png",
       "companyName": "Fashionoise",
-      "description": "Presented a two-pronged approach: Uber For Us and Uber For You to tackle regulatory hurdles, driver trust, and geographic variance."
+      "description": "Consulted for a local Vancouver jewelry business by building their brand identity, designing a new website, and developing a multi-channel marketing strategy with Meta Ads, SEO, influencer partnerships, and social media content."
+    },
+    {
+      "title": "COMM 396 Community Assessment Case",
+      "imagePath": "/images/cases/shopify-banner.png",
+      "companyLogoPath": "/images/logos/shopify.png",
+      "companyName": "Shopify",
+      "description": "Presented new recommendations for Shopify to expand business in Richmond, BC with Indigenous communities through partnerships, grants, and educational resources."
     }
   ],
   "extracurriculars": [
