@@ -76,7 +76,7 @@
       "title": "TELUS Form Coach",
       "imagePath": "/images/projects/form-coach-banner.gif",
       "githubLink": "https://github.com/yourusername/telus-form-coach",
-      "tags": ["python", "typescript", "javascript", "tensorflow", "reactjs", "nextjs", "nodejs", "movenet", "tailwindcss", "pandas", "numpy", "scikit-learn"],
+      "tags": ["python", "typescript", "javascript", "tensorflow", "reactjs", "nextjs", "nodejs", "movenet", "tailwindcss", "pandas", "numpy", "scikit-learn", "machine learning", "computer vision", "regression analysis"],
       "prize": "1st Place - TELUS Data & AI Hackathon",
       "description": "A new feature on the TELUS Health & Wellbeing app that evaluates your exercise form with computer vision. After winning, our team is now exploring ways to integrate this solution into existing TELUS products and services!"
     },
@@ -84,8 +84,8 @@
       "title": "Nerve",
       "imagePath": "/images/projects/nerve-banner.gif",
       "githubLink": "https://github.com/kevinxiao27/productx",
-      "tags": ["python", "typescript", "javascript", "tensorflow", "ngrok", "socket.io", "assemblyai", "supabase", "nextjs", "reactjs", "expressjs", "openai", "tailwindcss", "mapbox", "nodejs"],
-      "prize": "2nd Place + Startup Winner - UBC ProductX",
+      "tags": ["python", "typescript", "javascript", "tensorflow", "ngrok", "socket.io", "assemblyai", "supabase", "nextjs", "reactjs", "expressjs", "openai", "tailwindcss", "mapbox", "nodejs", "sentiment analysis"],
+      "prize": "2nd Place + Startup Winner - UBC BizTech ProductX",
       "description": "Competed alongside three other Kevins. A real-time monitoring dashboard for emergency dispatch units, powered with sentiment analysis and critical event detection. We modernized existing legacy systems that are outdated and have lead to lost lives, lost time, and lost resources."
     },
     {
@@ -99,9 +99,17 @@
       "title": "Meme-o-Tron",
       "imagePath": "/images/projects/meme-o-tron-banner.png",
       "githubLink": "https://meme-o-tron.vercel.app/",
-      "tags": ["typescript", "javascript", "reactjs", "nextjs", "tailwindcss", "openai", "json", "vercel"],
+      "tags": ["typescript", "javascript", "reactjs", "nextjs", "tailwindcss", "openai", "json", "vercel", "computer vision"],
       "prize": "Winner - BUCS Hackathon",
       "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and we'll see what meme you look like :)"
+    },
+        {
+      "title": "UBC Esports Lounge App",
+      "imagePath": "/images/projects/lounge-app-banner.gif",
+      "githubLink": "https://github.com/ubcesports/lounge-hub/",
+      "tags": ["typescript", "javascript", "golang", "postgresql", "aws ec2", "docker", "reactjs", "nextjs", "tailwindcss", "ci/cd", "github actions", "vercel"],
+      "prize": "UBC Esports Best Internal Department",
+      "description": "Replaced a manual lounge check-in process with a sleek web app! Currently exploring a new monorepo architecture for the backend as we roll out new features"
     },
     {
       "title": "Cal Hacks 12.0 @ UC Berkeley",
@@ -109,6 +117,27 @@
       "githubLink": "https://calhacks.io/",
       "tags": [],
       "description": "Stay tuned! Will be at Cal Hacks 2025"
+    },
+    {
+      "title": "UBCMA Membership Portal",
+      "imagePath": "/images/projects/ubcma-banner.png",
+      "githubLink": "https://github.com/ubcma/",
+      "tags": ["typescript", "javascript", "postgresql", "stripe", "aws ses", "uploadthing", "reactjs", "nextjs", "tailwindcss", "vercel"],
+      "description": "A full-stack web app for the UBC Marketing Association memberships supporting event registration, payment processing, and member management."
+    },
+    {
+      "title": "Dance Dance Revision @ Hack Western 11",
+      "imagePath": "/images/projects/hackwestern-banner.png",
+      "githubLink": "https://dorahacks.io/buidl/20353",
+      "tags": ["typescript", "javascript", "google mediapipe", "computer vision", "howlerjs", "reactjs", "nextjs", "tailwindcss", "vercel"],
+      "description": "Dance-Dance ReVision brings you the classic Dance-Dance Revolution (DDR) arcade rhythm game right to your computer. Dance with computer vision!"
+    },
+    {
+      "title": "CPSC 317 Computer Networking Projects",
+      "imagePath": "/images/projects/317-banner.png",
+      "githubLink": "https://www.cs.ubc.ca/course-section/cpsc-317-101-2021w",
+      "tags": ["java", "c", "socket programming", "tcp", "udp", "http", "ftp", "networking", "multithreading", "encryption"],
+      "description": "A collection of projects from UBC'S CPSC 317: Computer Networking written in Java and C. The projects primarily cover socket programming and various network protocols. The source code cannot be shared due to academic integrity policies."
     }
   ],
   "cases": [

@@ -30,34 +30,49 @@ export default function HomePage() {
               I like software engineering, sales, and supporting my community.
             </p>
             
-            {/* Social icons */}
+            {/* socials */}
             <div className="flex gap-2 mb-8">
-              <a href="#" className="text-zinc-400 hover:text-white transition-colors">
-                <Image
-                    src="/icons/linkedin.png"
-                    alt="linkedin"
-                    width={32}
-                    height={32}
-                    className="w-8 h-8"
-                  />
+              <a 
+              href="https://www.linkedin.com/in/kevinxygu/" 
+              className="text-zinc-400 hover:text-white transition-colors"
+              target="_blank"
+              rel="noopener noreferrer"
+              >
+              <Image
+                src="/icons/linkedin.png"
+                alt="linkedin"
+                width={32}
+                height={32}
+                className="w-8 h-8 transition-opacity hover:opacity-70"
+              />
               </a>
-              <a href="#" className="text-zinc-400 hover:text-white transition-colors">
-                <Image
-                    src="/icons/github.png"
-                    alt="github"
-                    width={32}
-                    height={32}
-                    className="w-8 h-8"
-                  />
+              <a 
+              href="https://github.com/Kevinxygu" 
+              className="text-zinc-400 hover:text-white transition-colors"
+              target="_blank"
+              rel="noopener noreferrer"
+              >
+              <Image
+                src="/icons/github.png"
+                alt="github"
+                width={32}
+                height={32}
+                className="w-8 h-8 transition-opacity hover:opacity-70"
+              />
               </a>
-              <a href="#" className="text-zinc-400 hover:text-white transition-colors">
-                <Image
-                    src="/icons/email.png"
-                    alt="mail"
-                    width={32}
-                    height={32}
-                    className="w-8 h-8"
-                  />
+              <a 
+              href="mailto:kevinxygu@gmail.com" 
+              className="text-zinc-400 hover:text-white transition-colors"
+              target="_blank"
+              rel="noopener noreferrer"
+              >
+              <Image
+                src="/icons/email.png"
+                alt="mail"
+                width={32}
+                height={32}
+                className="w-8 h-8 transition-opacity hover:opacity-70"
+              />
               </a>
             </div>
 
