@@ -6,7 +6,7 @@
       "tags": [
         { "name": "Coaching + Mentorship", "icon": "/icons/coaching-mentorship.png" },
         { "name": "Community", "icon": "/icons/community.png" }],
-      "description": "I'm 1 of 9 students coaching UBC Sauder students, with a focus on the BUCS (business + computer science) path!",
+      "description": "I'm 1 of 9 students coaching UBC Sauder students, with a focus on the BUCS (business + computer science) path! Shoutout Jonathan McQuarrie, Lauren du Toit, David Edwards, Val Ke and my fellow CPAs!",
       "link": "https://mybcom.sauder.ubc.ca/career-experience/career-coaching/career-peer-advisors"
     },
     {
@@ -19,7 +19,7 @@
         { "name": "AI Tools", "icon": "/icons/ai-tools.png" },
         { "name": "Capital Management", "icon": "/icons/sales.png" }
       ],
-      "description": "Drove automation and AI innovation for the Ops Capital Management team managing a billion-dollar budget.",
+      "description": "Drove automation and AI innovation for the Ops Capital Management team managing a billion-dollar budget. Shoutout Sean Phoenix, Ricardo Castillo, Terry Kaplan, Pooja Singh and Mursal Khyabani!",
       "link": "https://www.telus.com/en/about"
     },
     {
@@ -33,7 +33,7 @@
         { "name": "Salesforce", "icon": "/icons/salesforce.webp" }
 
       ],
-      "description": "Supported B2B SaaS sales deals as technical experts for Trulioo: an identity verification unicorn!",
+      "description": "Supported B2B SaaS sales deals as technical experts for Trulioo: an identity verification unicorn! Shoutout Michael Nolan, Shaun Singh and the SC team!",
       "link": "https://www.trulioo.com/"
     },
     {
@@ -44,7 +44,7 @@
         { "name": "Automation", "icon": "/icons/automation.png" },
         { "name": "Docker", "icon": "/icons/docker.png" }
       ],
-      "description": "Built automation tools for ICBC’s Business Innovation and RPA team. Became first co-op to adopt a dual software engineer / business systems analyst role.",
+      "description": "Built automation tools for ICBC’s Business Innovation and RPA team. Became first co-op to adopt a dual software engineer / business systems analyst role. Shoutout Ritchie Macapinlac, Gurinder Johal, and Chris Port!",
       "link": "https://icbc.com/"
     },
     {
@@ -58,7 +58,7 @@
         { "name": "Databricks", "icon": "/icons/databricks.png" }
 
       ],
-      "description": "Implemented governance, risk, and compliance solutions for clients in a nimble 10-person cybersecurity startup.",
+      "description": "Implemented governance, risk, and compliance solutions for clients in a nimble 10-person cybersecurity startup. Shoutout Tejinder Basi and Hetash Parmar!",
       "link": "https://www.cyberiumgroup.com/"
     },
     {
@@ -68,7 +68,7 @@
         { "name": "Excel + Linear Programming", "icon": "/icons/excel.png" },
         { "name": "Coaching + Teaching", "icon": "/icons/coaching-mentorship.png" },
         { "name": "Community", "icon": "/icons/community.png" }],
-      "description": "TA'd COMM 190: Quantitative Decision Analysis, Linear Programming + Probability after scoring 100 in the course.",
+      "description": "TA'd COMM 190: Quantitative Decision Analysis, Linear Programming + Probability after scoring 100 in the course. Shoutout Greg Werker and Tim Huh!",
       "link": "https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-190"
     }
   ],
@@ -79,7 +79,7 @@
       "githubLink": "https://www.linkedin.com/posts/pedro-soares-90826a248_hackathon-telushealth-ai-activity-7364729325478211585-5rB2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6TNrcBrof1BZoHIpg6iPmxRYe7LGVE09Q",
       "tags": ["python", "typescript", "javascript", "tensorflow", "reactjs", "nextjs", "nodejs", "movenet", "tailwindcss", "pandas", "numpy", "scikit-learn", "machine learning", "computer vision", "regression analysis"],
       "prize": "🏆 1st Place - TELUS Data & AI Hackathon",
-      "description": "A new feature on the TELUS Health & Wellbeing app that evaluates your exercise form with computer vision. After winning, our team is now exploring ways to integrate this solution into existing TELUS products and services!"
+      "description": "A new feature on the TELUS Health & Wellbeing app that evaluates your exercise form with computer vision. After winning, our team is now exploring ways to integrate this solution into existing TELUS products and services! Shoutout Pedro Soares and Arianne Rull!"
     },
     {
       "title": "Nerve",
@@ -87,7 +87,7 @@
       "githubLink": "https://devpost.com/software/nerve-1vlr0m",
       "tags": ["python", "typescript", "javascript", "tensorflow", "ngrok", "socket.io", "assemblyai", "supabase", "nextjs", "reactjs", "expressjs", "openai", "tailwindcss", "mapbox", "nodejs", "sentiment analysis"],
       "prize": "🏆 2nd Place + 🏆 Startup Winner - UBC BizTech ProductX",
-      "description": "Competed alongside three other Kevins. A real-time monitoring dashboard for emergency dispatch units, powered with sentiment analysis and critical event detection. We modernized existing legacy systems that are outdated and have lead to lost lives, lost time, and lost resources."
+      "description": "Competed alongside three other Kevins. A real-time monitoring dashboard for emergency dispatch units, powered with sentiment analysis and critical event detection. We modernized existing legacy systems that are outdated and have lead to lost lives, lost time, and lost resources. Shoutout Kevin Hu, Kevin Tan, Kevin Xiao!"
     },
     {
       "title": "HackHarvard @ Harvard University",
@@ -103,7 +103,7 @@
       "githubLink": "https://devpost.com/software/meme-o-tron",
       "tags": ["typescript", "javascript", "reactjs", "nextjs", "tailwindcss", "openai", "json", "vercel", "computer vision"],
       "prize": "🏆 Winner - BUCS Hackathon",
-      "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and prepare to get roasted."
+      "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and prepare to get roasted. Shoutout Ryan Haraki and Alison Hardy!"
     },
         {
       "title": "UBC Esports Lounge App",
@@ -111,7 +111,7 @@
       "githubLink": "https://github.com/ubcesports",
       "tags": ["typescript", "javascript", "golang", "postgresql", "aws ec2", "docker", "reactjs", "nextjs", "tailwindcss", "ci/cd", "github actions", "vercel"],
       "prize": "🏆 Best Internal Department",
-      "description": "Replaced a manual lounge check-in process with a sleek web app! Currently exploring a new monorepo architecture for the backend as we roll out new features for UBC's gaming community."
+      "description": "Replaced a manual lounge check-in process with a sleek web app! Currently exploring a new monorepo architecture for the backend as we roll out new features for UBC's gaming community. Shoutout Josh Wu and Jaden Hums, my dev leads and the rest of the team!"
     },
     {
       "title": "Cal Hacks 12.0 @ UC Berkeley",
@@ -128,14 +128,14 @@
       "githubLink": "https://dorahacks.io/buidl/20353",
       "tags": ["typescript", "javascript", "google mediapipe", "computer vision", "howlerjs", "reactjs", "nextjs", "tailwindcss", "vercel"],
       "prize": "Hack Western 11 @ Western University (MLH)",
-      "description": "Dance-Dance ReVision brings you the classic Dance-Dance Revolution (DDR) arcade rhythm game right to your computer. Dance with computer vision!"
+      "description": "Dance-Dance ReVision brings you the classic Dance-Dance Revolution (DDR) arcade rhythm game right to your computer. Dance with computer vision! Shoutout Andrew Fenton and Khoa Bui!"
     },
     {
       "title": "UBCMA Membership Portal",
       "imagePath": "/images/projects/ubcma-banner.png",
       "githubLink": "https://github.com/ubcma/",
       "tags": ["typescript", "javascript", "postgresql", "stripe", "aws ses", "uploadthing", "reactjs", "nextjs", "tailwindcss", "vercel"],
-      "description": "A full-stack web app for the UBC Marketing Association memberships supporting event registration, payment processing, and member management."
+      "description": "A full-stack web app for the UBC Marketing Association memberships supporting event registration, payment processing, and member management. Shoutout Ethan Hansen, Daniel Lee, Janaye Cheong, and Angela Huang!"
     },
     {
       "title": "Computer Networking Projects",
@@ -152,7 +152,7 @@
       "companyLogoPath": "/images/logos/teaboco.png",
       "companyName": "Teaboco",
       "prize": "1st Place Overall",
-      "description": "Presented recommendations to increase Teaboco's UBC presence and obtain a B Corp Certification through influencer marketing and in-person campus partnerships.",
+      "description": "Presented recommendations to increase Teaboco's UBC presence and obtain a B Corp Certification through influencer marketing and in-person campus partnerships. Shoutout Bonnie Xie, Katerina Chen, and Saren Vathanak!",
       "link": "https://drive.google.com/file/d/18aj-xdyY4mHRFzu8sw8C0YVIeS4zxdV9/view?usp=sharing"
     },
     {
@@ -161,7 +161,7 @@
       "companyLogoPath": "/images/logos/telus.png",
       "companyName": "TELUS",
       "prize": "2nd Place (Senior Case)",
-      "description": "Tackled new product growth for TELUS MyPet by implementing an AI Assistant, introducing hybrid pricing, designing a new vet directory and funding partnerships.",
+      "description": "Tackled new product growth for TELUS MyPet by implementing an AI Assistant, introducing hybrid pricing, designing a new vet directory and funding partnerships. Shoutout Bonnie Xie, Grace Kim, and Newgen Bao!",
       "link": "https://github.com/Kevinxygu/imprint-TELUS"
     },
     {
@@ -170,7 +170,7 @@
       "companyLogoPath": "/images/logos/telus.png",
       "companyName": "TELUS",
       "prize": "2nd Place (Senior Case)",
-      "description": "Implemented a master rebrand for TELUS to showcase its diverse product lines and help them STAND OUT, SHARE OUT, and HELP OUT.",
+      "description": "Implemented a master rebrand for TELUS to showcase its diverse product lines and help them STAND OUT, SHARE OUT, and HELP OUT. Shoutout Bonnie Xie, Grace Kim, and Newgen Bao!",
       "link": "https://github.com/Kevinxygu/imprint-TELUS"
     },
     {
@@ -179,7 +179,7 @@
       "companyLogoPath": "/images/logos/hootsuite.png",
       "companyName": "Hootsuite",
       "prize": "2nd Place (Hootsuite Challenge)",
-      "description": "Presented Hootsuite Connect: A new feature to connect brand influencers with businesses to create authentic social media content.",
+      "description": "Presented Hootsuite Connect: A new feature to connect brand influencers with businesses to create authentic social media content. Shoutout Borna Shani and Eric Gadbois!",
       "link": "https://drive.google.com/file/d/1RLcg40NO6Z0SE6jdfwWS2lyMhhzBfStZ/view?usp=sharing"
     },
     {
@@ -187,7 +187,7 @@
       "imagePath": "/images/cases/eprojects-banner.png",
       "companyLogoPath": "/images/logos/microsoft.png",
       "companyName": "Microsoft",
-      "description": "Presented Microsoft RUBY: a new city-wide dispatch system for emergency services to reduce response times and save lives, implemented with Microsoft Azure IoT services.",
+      "description": "Presented Microsoft RUBY: a new city-wide dispatch system for emergency services to reduce response times and save lives, implemented with Microsoft Azure IoT services. Shoutout Elaine Li, John Grey and Marina Yu!",
       "link": "https://drive.google.com/file/d/14A1aYvrk81BKu8vV5G6Uft-zIloxxwx1/view?usp=sharing"
     },
     {
@@ -203,7 +203,7 @@
       "imagePath": "/images/cases/studios-banner.png",
       "companyLogoPath": "/images/logos/fashionoise.png",
       "companyName": "Fashionoise",
-      "description": "Consulted for a local Vancouver jewelry business by building their brand identity, designing a new website, and developing a multi-channel marketing strategy with Meta Ads, SEO, influencer partnerships, and social media content.",
+      "description": "Consulted for a local Vancouver jewelry business by building their brand identity, designing a new website, and developing a multi-channel marketing strategy with Meta Ads, SEO, influencer partnerships, and social media content. Shoutout Elishia Yeung, Adeline Chan, Jessica Oh, Jayden Tsai, Priya Sidhu and Geonwoo Park!",
       "link": "https://drive.google.com/file/d/1xcoIXCsrHGQ-J5UncXqId-WaIw7n38jY/view?usp=sharing"
     },
     {
@@ -211,7 +211,7 @@
       "imagePath": "/images/cases/apple-banner.gif",
       "companyLogoPath": "/images/logos/apple.png",
       "companyName": "Apple",
-      "description": "Presented a new Apple creator network and a new app interface to connect creators, influencers, and marketing voices for the Apple ecosystem. Class cases are kept proprietary.",
+      "description": "Presented a new Apple creator network and a new app interface to connect creators, influencers, and marketing voices for the Apple ecosystem. Class cases are kept proprietary. Shoutout Jasmine Chen, Khoa Bui, Navit Kaur and Fei Gao!",
       "link": "https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-296"
     },
     {
@@ -235,7 +235,7 @@
       "imagePath": "/images/cases/ey-banner.png",
       "companyLogoPath": "/images/logos/ey.png",
       "companyName": "EY",
-      "description": "Presented a prototype for WallEY, a new NFT-based platform to manage loyalty rewards programs.",
+      "description": "Presented a prototype for WallEY, a new NFT-based platform to manage loyalty rewards programs. Shoutout Ryan Haraki, Borna Shani and Colin Grob!",
       "link": "https://drive.google.com/file/d/1MOokjZu-qRer7BlARbWromIIS98b303v/view?usp=sharing"
 
     }
