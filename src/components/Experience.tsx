@@ -1,6 +1,4 @@
 import { Card, CardContent } from '@/components/ui/card';
-import { Button } from '@/components/ui/button';
-import { ArrowUpRight } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
 
@@ -20,7 +18,7 @@ export function Experience({ title, imagePath, tags, description, link }: Experi
   
   return (
     <CardWrapper
-      href={link || ''}
+      href={link || '/'}
       className={`block transition-all duration-200 ${link ? 'hover:scale-105 hover:rotate-1' : ''}`}
       {...(link ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
     >
@@ -42,9 +40,6 @@ export function Experience({ title, imagePath, tags, description, link }: Experi
               <h3 className="text-xl font-semibold text-palette-light-green group-hover:text-white transition-colors">
                 {title}
               </h3>
-              {link && (
-                <ArrowUpRight className="h-5 w-5 text-zinc-400 group-hover:text-white group-hover:rotate-45 transition-all duration-200" />
-              )}
             </div>
             
             <div className="flex flex-wrap gap-2 mb-4">

@@ -16,7 +16,8 @@
         { "name": "Python", "icon": "/icons/python.png" },
         { "name": "TypeScript", "icon": "/icons/typescript.png" },
         { "name": "Automation", "icon": "/icons/automation.png" },
-        { "name": "AI Tools", "icon": "/icons/ai-tools.png" }
+        { "name": "AI Tools", "icon": "/icons/ai-tools.png" },
+        { "name": "Capital Management", "icon": "/icons/sales.png" }
       ],
       "description": "Drove automation and AI innovation for the Ops Capital Management team managing a billion-dollar budget.",
       "link": "https://www.telus.com/en/about"
@@ -77,7 +78,7 @@
       "imagePath": "/images/projects/form-coach-banner.gif",
       "githubLink": "https://github.com/yourusername/telus-form-coach",
       "tags": ["python", "typescript", "javascript", "tensorflow", "reactjs", "nextjs", "nodejs", "movenet", "tailwindcss", "pandas", "numpy", "scikit-learn", "machine learning", "computer vision", "regression analysis"],
-      "prize": "1st Place - TELUS Data & AI Hackathon",
+      "prize": "🏆 1st Place - TELUS Data & AI Hackathon",
       "description": "A new feature on the TELUS Health & Wellbeing app that evaluates your exercise form with computer vision. After winning, our team is now exploring ways to integrate this solution into existing TELUS products and services!"
     },
     {
@@ -85,7 +86,7 @@
       "imagePath": "/images/projects/nerve-banner.gif",
       "githubLink": "https://github.com/kevinxiao27/productx",
       "tags": ["python", "typescript", "javascript", "tensorflow", "ngrok", "socket.io", "assemblyai", "supabase", "nextjs", "reactjs", "expressjs", "openai", "tailwindcss", "mapbox", "nodejs", "sentiment analysis"],
-      "prize": "2nd Place + Startup Winner - UBC BizTech ProductX",
+      "prize": "🏆 2nd Place + 🏆 Startup Winner - UBC BizTech ProductX",
       "description": "Competed alongside three other Kevins. A real-time monitoring dashboard for emergency dispatch units, powered with sentiment analysis and critical event detection. We modernized existing legacy systems that are outdated and have lead to lost lives, lost time, and lost resources."
     },
     {
@@ -93,6 +94,7 @@
       "imagePath": "/images/projects/hackharvard-banner.png",
       "githubLink": "https://hackharvard.io/",
       "tags": [],
+      "prize": "HackHarvard 10 @ Harvard University (MLH)",
       "description": "Stay tuned! Will be at HackHarvard 2025"
     },
     {
@@ -100,7 +102,7 @@
       "imagePath": "/images/projects/meme-o-tron-banner.png",
       "githubLink": "https://meme-o-tron.vercel.app/",
       "tags": ["typescript", "javascript", "reactjs", "nextjs", "tailwindcss", "openai", "json", "vercel", "computer vision"],
-      "prize": "Winner - BUCS Hackathon",
+      "prize": "🏆 Winner - BUCS Hackathon",
       "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and prepare to get roasted."
     },
         {
@@ -108,7 +110,7 @@
       "imagePath": "/images/projects/lounge-app-banner.gif",
       "githubLink": "https://github.com/ubcesports/lounge-hub/",
       "tags": ["typescript", "javascript", "golang", "postgresql", "aws ec2", "docker", "reactjs", "nextjs", "tailwindcss", "ci/cd", "github actions", "vercel"],
-      "prize": "UBC Esports Best Internal Department",
+      "prize": "🏆 Best Internal Department",
       "description": "Replaced a manual lounge check-in process with a sleek web app! Currently exploring a new monorepo architecture for the backend as we roll out new features for UBC's gaming community."
     },
     {
@@ -116,7 +118,17 @@
       "imagePath": "/images/projects/calhacks-banner.png",
       "githubLink": "https://calhacks.io/",
       "tags": [],
+      "prize": "CalHacks 12.0 @ UC Berkeley (MLH)",
+
       "description": "Stay tuned! Will be at Cal Hacks 2025"
+    },
+    {
+      "title": "Dance Dance Revision",
+      "imagePath": "/images/projects/hackwestern-banner.png",
+      "githubLink": "https://dorahacks.io/buidl/20353",
+      "tags": ["typescript", "javascript", "google mediapipe", "computer vision", "howlerjs", "reactjs", "nextjs", "tailwindcss", "vercel"],
+      "prize": "Hack Western 11 @ Western University (MLH)",
+      "description": "Dance-Dance ReVision brings you the classic Dance-Dance Revolution (DDR) arcade rhythm game right to your computer. Dance with computer vision!"
     },
     {
       "title": "UBCMA Membership Portal",
@@ -126,14 +138,7 @@
       "description": "A full-stack web app for the UBC Marketing Association memberships supporting event registration, payment processing, and member management."
     },
     {
-      "title": "Dance Dance Revision @ Hack Western 11",
-      "imagePath": "/images/projects/hackwestern-banner.png",
-      "githubLink": "https://dorahacks.io/buidl/20353",
-      "tags": ["typescript", "javascript", "google mediapipe", "computer vision", "howlerjs", "reactjs", "nextjs", "tailwindcss", "vercel"],
-      "description": "Dance-Dance ReVision brings you the classic Dance-Dance Revolution (DDR) arcade rhythm game right to your computer. Dance with computer vision!"
-    },
-    {
-      "title": "CPSC 317 Computer Networking Projects",
+      "title": "Computer Networking Projects",
       "imagePath": "/images/projects/317-banner.png",
       "githubLink": "https://www.cs.ubc.ca/course-section/cpsc-317-101-2021w",
       "tags": ["java", "c", "socket programming", "tcp", "udp", "http", "ftp", "networking", "multithreading", "encryption"],
@@ -147,7 +152,8 @@
       "companyLogoPath": "/images/logos/teaboco.png",
       "companyName": "Teaboco",
       "prize": "1st Place Overall",
-      "description": "Presented recommendations to increase Teaboco's UBC presence and obtain a B Corp Certification through influencer marketing and in-person campus partnerships"
+      "description": "Presented recommendations to increase Teaboco's UBC presence and obtain a B Corp Certification through influencer marketing and in-person campus partnerships",
+      "link": "https://drive.google.com/file/d/18aj-xdyY4mHRFzu8sw8C0YVIeS4zxdV9/view?usp=sharing"
     },
     {
       "title": "UBC Imprint Marketing Case Competition Final Round",
@@ -155,7 +161,8 @@
       "companyLogoPath": "/images/logos/telus.png",
       "companyName": "TELUS",
       "prize": "2nd Place (Senior Case)",
-      "description": "Tackled new product growth for TELUS MyPet by implementing an AI Assistant, introducing hybrid pricing, designing a new vet directory and funding partnerships."
+      "description": "Tackled new product growth for TELUS MyPet by implementing an AI Assistant, introducing hybrid pricing, designing a new vet directory and funding partnerships.",
+      "link": "https://github.com/Kevinxygu/imprint-TELUS"
     },
     {
       "title": "UBC Imprint Marketing Case Competition Preliminary Round",
@@ -163,7 +170,8 @@
       "companyLogoPath": "/images/logos/telus.png",
       "companyName": "TELUS",
       "prize": "2nd Place (Senior Case)",
-      "description": "Implemented a master rebrand for TELUS to showcase its diverse product lines and help them STAND OUT, SHARE OUT, and HELP OUT."
+      "description": "Implemented a master rebrand for TELUS to showcase its diverse product lines and help them STAND OUT, SHARE OUT, and HELP OUT.",
+      "link": "https://github.com/Kevinxygu/imprint-TELUS"
     },
     {
       "title": "UBC Product Sprint Product Challenge",
@@ -171,42 +179,46 @@
       "companyLogoPath": "/images/logos/hootsuite.png",
       "companyName": "Hootsuite",
       "prize": "2nd Place (Hootsuite Challenge)",
-      "description": "Presented Hootsuite Connect: A new feature to connect brand influencers with businesses to create authentic social media content."
+      "description": "Presented Hootsuite Connect: A new feature to connect brand influencers with businesses to create authentic social media content.",
+      "link": "https://drive.google.com/file/d/1RLcg40NO6Z0SE6jdfwWS2lyMhhzBfStZ/view?usp=sharing"
     },
     {
       "title": "UBC eProjects Pitchathon",
       "imagePath": "/images/cases/eprojects-banner.png",
       "companyLogoPath": "/images/logos/microsoft.png",
       "companyName": "Microsoft",
-      "description": "Presented a new city-wide dispatch system for emergency services to reduce response times and save lives, implemented with Microsoft Azure IoT services"
+      "description": "Presented Microsoft RUBY: a new city-wide dispatch system for emergency services to reduce response times and save lives, implemented with Microsoft Azure IoT services",
+      "link": "https://drive.google.com/file/d/14A1aYvrk81BKu8vV5G6Uft-zIloxxwx1/view?usp=sharing"
     },
     {
       "title": "JDC West Summer Development Initial Case Round",
       "imagePath": "/images/cases/uber-banner.png",
       "companyLogoPath": "/images/logos/uber.png",
       "companyName": "Uber",
-      "description": "Presented a two-pronged approach: Uber For Us and Uber For You to tackle regulatory hurdles, driver trust, and geographic variance."
+      "description": "Presented a two-pronged approach: Uber For Us and Uber For You to tackle regulatory hurdles, driver trust, and geographic variance.",
+      "link": "https://drive.google.com/file/d/1f3iP-15cGo7DxvMrtiWSvPL--zJ_B_XX/view?usp=sharing"
     },
     {
       "title": "UBCMA Studios Pro Bono Consulting",
       "imagePath": "/images/cases/studios-banner.png",
       "companyLogoPath": "/images/logos/fashionoise.png",
       "companyName": "Fashionoise",
-      "description": "Consulted for a local Vancouver jewelry business by building their brand identity, designing a new website, and developing a multi-channel marketing strategy with Meta Ads, SEO, influencer partnerships, and social media content."
+      "description": "Consulted for a local Vancouver jewelry business by building their brand identity, designing a new website, and developing a multi-channel marketing strategy with Meta Ads, SEO, influencer partnerships, and social media content.",
+      "link": "https://drive.google.com/file/d/1xcoIXCsrHGQ-J5UncXqId-WaIw7n38jY/view?usp=sharing"
     },
     {
       "title": "COMM 296 Case Assignment",
       "imagePath": "/images/cases/apple-banner.gif",
       "companyLogoPath": "/images/logos/apple.png",
       "companyName": "Apple",
-      "description": "Presented the Apple creator network and a new app interface to connect creators, influencers, and marketing voices for the Apple ecosystem."
+      "description": "Presented a new Apple creator network and a new app interface to connect creators, influencers, and marketing voices for the Apple ecosystem. Class cases are kept proprietary."
     },
     {
       "title": "COMM 396 Community Assessment Case",
       "imagePath": "/images/cases/shopify-banner.png",
       "companyLogoPath": "/images/logos/shopify.png",
       "companyName": "Shopify",
-      "description": "Presented new recommendations for Shopify to expand business in Richmond, BC with Indigenous communities through partnerships, grants, and educational resources."
+      "description": "Presented new recommendations for Shopify to expand business in Richmond, BC with Indigenous communities through partnerships, grants, and educational resources. Class cases are kept proprietary."
     }
   ],
   "extracurriculars": [
@@ -214,55 +226,64 @@
       "title": "nwPlus",
       "description": "We're Western Canada's largest hackathon organizer, with 3 every year: HackCamp, nwHacks, and cmd-f. We're MLH-affiliated, supporting 1250+ hackers across our events!",
       "imagePath": "/images/extracurricular/nwplus-banner.png",
-      "roles": ["Treasurer", "Sponsorship Lead", "Sponsorship Coordinator"]
+      "roles": ["Treasurer", "Sponsorship Lead", "Sponsorship Coordinator"],
+      "link": "https://nwplus.io/"
     },
     {
       "title": "UBC Marketing Association (UBCMA)",
       "description": "We're UBC's only marketing focused student club, bringing you events and opportunities to learn about marketing, network with industry professionals, and build your skills.",
       "imagePath": "/images/extracurricular/ubcma-banner.png",
-      "roles": ["Software Engineer", "Senior Pro Bono Consultant - Studios"]
+      "roles": ["Software Engineer", "Senior Pro Bono Consultant - Studios"],
+      "link": "https://www.ubcma.ca/"
     },
     {
       "title": "UBC Esports Association (UBCEA)",
       "description": "UBC's gaming club! We host events, tournaments, and come by the gaming lounge in the Nest to unwind between (or during) your classes.",
       "imagePath": "/images/extracurricular/ubcea-banner.png",
-      "roles": ["Software Engineer", "Product Manager", "External Relations"]
+      "roles": ["Software Engineer", "Product Manager", "External Relations"],
+      "link": "https://www.ubcesports.ca/"
     },
     {
       "title": "Sauder Summit International Case Competition",
       "description": "Annual case competition hosted by the Sauder School of Business, bringing together top students from around the world to solve real business challenges.",
       "imagePath": "/images/extracurricular/summit-banner.png",
-      "roles": ["Competitions Director"]
+      "roles": ["Competitions Director"],
+      "link": "https://www.saudersummit.ca/"
     },
     {
       "title": "Enactus UBC",
       "description": "We're UBC's branch for Enactus, a global non-profit organization dedicated to inspiring students to improve the world through entrepreneurial action.",
       "imagePath": "/images/extracurricular/enactus-banner.png",
-      "roles": ["Tech Advisor", "Lead Software Engineer", "Ennovate Tech Lead", "Ennovate Project Associate"]
+      "roles": ["Tech Advisor", "Lead Software Engineer", "Ennovate Tech Lead", "Ennovate Project Associate"],
+      "link": "https://enactusubc.ca/"
     },
     {
       "title": "National Strategy Consulting Case Competition & Conference (NSCC)",
       "description": "Sauder's top case competition 2025! We're Canada's premier strategy case competition and conference for all things consulting.",
       "imagePath": "/images/extracurricular/nscc-banner.png",
-      "roles": ["Conference Associate", "Conference Experience Coordinator (CEC)"]
+      "roles": ["Conference Associate", "Conference Experience Coordinator (CEC)"],
+      "link": "https://www.thenscc.com/"
     },
     {
       "title": "HelloHacks by UBC BizTech",
       "description": "A beginner-friendly hackathon hosted by UBC BizTech, one of UBC's largest tech clubs.",
       "imagePath": "/images/extracurricular/biztech-banner.png",
-      "roles": ["Hackathon Mentor"]
+      "roles": ["Hackathon Mentor"],
+      "link": "https://www.ubcbiztech.com/"
     },
     {
       "title": "BUCS Community Team",
       "description": "Fostering community and events for UBC Sauder's business and computer science (BUCS) students.",
       "imagePath": "/images/extracurricular/bucs-banner.png",
-      "roles": ["Chair", "First Year Rep"]
+      "roles": ["Chair", "First Year Rep"],
+      "link": "http://ubcbucs.ca/"
     },
     {
       "title": "UBC Sauder Orientations",
       "description": "Welcoming first years to UBC Sauder with fun events, mentorship, and community building!",
       "imagePath": "/images/extracurricular/ol-banner.png",
-      "roles": ["Orientation Leader - 2024", "Orientation Leader - 2023"]
+      "roles": ["Orientation Leader - 2024", "Orientation Leader - 2023"],
+      "link": "https://www.ubcsauderspark.com/"
     }
   ]
 }

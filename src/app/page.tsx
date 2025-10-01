@@ -23,7 +23,7 @@ export default function HomePage() {
           <div className="flex flex-col items-start">
             <p className="text-white text-xl n mb-3">Thanks for stopping by!</p>
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 text-palette-medium-green">
-              I'm Kevin
+              I&apos;m Kevin
             </h1>
             <p className="text-lg md:text-xl text-zinc-300 mb-8 max-w-xl">
               I like software engineering, sales, and supporting my community by building experiences for them!
@@ -78,7 +78,7 @@ export default function HomePage() {
             {/* cpa plug */}
             <div className="w-full">
               <p className="text-zinc-300 text-sm mb-4">
-                If you're a UBC Sauder student and want to chat, feel free to book a time with me through COOL!
+                If you&apos;re a UBC Sauder student and want to chat, feel free to book a time with me through COOL!
               </p>
                 <a 
                 href="https://mybcom.sauder.ubc.ca/career-experience/career-resources/cool-career-platform" 
@@ -102,8 +102,8 @@ export default function HomePage() {
               <Image
                 src="/images/avatar.png"
                 alt="Kevin's Avatar"
-                width={480}
-                height={480}
+                width={1080}
+                height={1080}
                 className="w-full h-full object-cover"
               />
             </div>

@@ -28,7 +28,7 @@ export function Project({ title, imagePath, githubLink, tags, prize, description
           
           {prize && (
             <div className="absolute top-4 left-4 bg-palette-light-green backdrop-blur-sm px-3 py-1.5 rounded-full">
-              <span className="text-palette-dark-green text-sm font-medium">🏆 - {prize}</span>
+              <span className="text-palette-dark-green text-sm font-medium">{prize}</span>
             </div>
           )}
         </div>
