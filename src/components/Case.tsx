@@ -21,7 +21,7 @@ export function Case({ title, imagePath, companyLogoPath, companyName, prize, de
       className={`block transition-all duration-200 ${link ? 'hover:scale-105 hover:rotate-1' : ''}`}
       {...(link ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
     >
-      <Card className="h-full group overflow-hidden transition-all duration-200 hover:scale-105 hover:rotate-1 border-[#36573F]">
+      <Card className="h-full group overflow-hidden border-[#36573F]">
         <CardContent className="p-0">
           <div className="relative h-96 overflow-hidden">
             <Image
