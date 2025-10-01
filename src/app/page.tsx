@@ -78,7 +78,7 @@ export default function HomePage() {
             {/* cpa plug */}
             <div className="w-full">
               <p className="text-zinc-300 text-sm mb-4">
-                If you&apos;re a UBC Sauder student and want to chat, feel free to book a time with me through COOL!
+                If you&apos;re a UBC Sauder student and want to chat, feel free to book a time with me through COOL! For everything else, feel free to contact me at <strong>kevinxygu@gmail.com</strong>
               </p>
                 <a 
                 href="https://mybcom.sauder.ubc.ca/career-experience/career-resources/cool-career-platform" 
