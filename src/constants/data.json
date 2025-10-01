@@ -214,11 +214,27 @@
       "description": "Presented a new Apple creator network and a new app interface to connect creators, influencers, and marketing voices for the Apple ecosystem. Class cases are kept proprietary."
     },
     {
+      "title": "COMM 396 Industry Research Case",
+      "imagePath": "/images/cases/salesforce-banner.png",
+      "companyLogoPath": "/images/logos/salesforce.png",
+      "companyName": "Salesforce",
+      "description": "Completed a market research report on Salesforce's Solutions Engineer role, and the company's overall position in the CRM market. Performed industry analysis and researched the future roadmap of Agentforce. Class cases are kept proprietary."
+    },
+    {
       "title": "COMM 396 Community Assessment Case",
       "imagePath": "/images/cases/shopify-banner.png",
       "companyLogoPath": "/images/logos/shopify.png",
       "companyName": "Shopify",
       "description": "Presented new recommendations for Shopify to expand business in Richmond, BC with Indigenous communities through partnerships, grants, and educational resources. Class cases are kept proprietary."
+    },
+    {
+      "title": "UBC ProduHacks x EY Product Challenge",
+      "imagePath": "/images/cases/ey-banner.png",
+      "companyLogoPath": "/images/logos/ey.png",
+      "companyName": "EY",
+      "description": "Presented a prototype for WallEY, a new NFT-based platform to manage loyalty rewards programs.",
+      "link": "https://drive.google.com/file/d/1MOokjZu-qRer7BlARbWromIIS98b303v/view?usp=sharing"
+
     }
   ],
   "extracurriculars": [
