@@ -76,7 +76,7 @@
     {
       "title": "TELUS Form Coach",
       "imagePath": "/images/projects/form-coach-banner.gif",
-      "githubLink": "https://github.com/yourusername/telus-form-coach",
+      "githubLink": "https://www.linkedin.com/posts/pedro-soares-90826a248_hackathon-telushealth-ai-activity-7364729325478211585-5rB2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6TNrcBrof1BZoHIpg6iPmxRYe7LGVE09Q",
       "tags": ["python", "typescript", "javascript", "tensorflow", "reactjs", "nextjs", "nodejs", "movenet", "tailwindcss", "pandas", "numpy", "scikit-learn", "machine learning", "computer vision", "regression analysis"],
       "prize": "🏆 1st Place - TELUS Data & AI Hackathon",
       "description": "A new feature on the TELUS Health & Wellbeing app that evaluates your exercise form with computer vision. After winning, our team is now exploring ways to integrate this solution into existing TELUS products and services!"
@@ -84,7 +84,7 @@
     {
       "title": "Nerve",
       "imagePath": "/images/projects/nerve-banner.gif",
-      "githubLink": "https://github.com/kevinxiao27/productx",
+      "githubLink": "https://devpost.com/software/nerve-1vlr0m",
       "tags": ["python", "typescript", "javascript", "tensorflow", "ngrok", "socket.io", "assemblyai", "supabase", "nextjs", "reactjs", "expressjs", "openai", "tailwindcss", "mapbox", "nodejs", "sentiment analysis"],
       "prize": "🏆 2nd Place + 🏆 Startup Winner - UBC BizTech ProductX",
       "description": "Competed alongside three other Kevins. A real-time monitoring dashboard for emergency dispatch units, powered with sentiment analysis and critical event detection. We modernized existing legacy systems that are outdated and have lead to lost lives, lost time, and lost resources."
@@ -100,7 +100,7 @@
     {
       "title": "Meme-o-Tron",
       "imagePath": "/images/projects/meme-o-tron-banner.png",
-      "githubLink": "https://meme-o-tron.vercel.app/",
+      "githubLink": "https://devpost.com/software/meme-o-tron",
       "tags": ["typescript", "javascript", "reactjs", "nextjs", "tailwindcss", "openai", "json", "vercel", "computer vision"],
       "prize": "🏆 Winner - BUCS Hackathon",
       "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and prepare to get roasted."
@@ -108,7 +108,7 @@
         {
       "title": "UBC Esports Lounge App",
       "imagePath": "/images/projects/lounge-app-banner.gif",
-      "githubLink": "https://github.com/ubcesports/lounge-hub/",
+      "githubLink": "https://github.com/ubcesports",
       "tags": ["typescript", "javascript", "golang", "postgresql", "aws ec2", "docker", "reactjs", "nextjs", "tailwindcss", "ci/cd", "github actions", "vercel"],
       "prize": "🏆 Best Internal Department",
       "description": "Replaced a manual lounge check-in process with a sleek web app! Currently exploring a new monorepo architecture for the backend as we roll out new features for UBC's gaming community."
@@ -123,7 +123,7 @@
       "description": "Stay tuned! Will be at Cal Hacks 2025"
     },
     {
-      "title": "Dance Dance Revision",
+      "title": "Dance Dance ReVision",
       "imagePath": "/images/projects/hackwestern-banner.png",
       "githubLink": "https://dorahacks.io/buidl/20353",
       "tags": ["typescript", "javascript", "google mediapipe", "computer vision", "howlerjs", "reactjs", "nextjs", "tailwindcss", "vercel"],
