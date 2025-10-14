@@ -85,17 +85,17 @@
       "title": "Nerve",
       "imagePath": "/images/projects/nerve-banner.gif",
       "githubLink": "https://devpost.com/software/nerve-1vlr0m",
-      "tags": ["python", "typescript", "javascript", "tensorflow", "ngrok", "socket.io", "assemblyai", "supabase", "nextjs", "reactjs", "expressjs", "openai", "tailwindcss", "mapbox", "nodejs", "sentiment analysis"],
+      "tags": ["python", "typescript", "javascript", "tensorflow", "ngrok", "socket.io", "websockets", "assemblyai", "supabase", "nextjs", "reactjs", "expressjs", "openai", "tailwindcss", "mapbox", "nodejs", "sentiment analysis"],
       "prize": "🏆 2nd Place + 🏆 Startup Winner - UBC BizTech ProductX",
       "description": "Competed alongside three other Kevins. A real-time monitoring dashboard for emergency dispatch units, powered with sentiment analysis and critical event detection. We modernized existing legacy systems that are outdated and have lead to lost lives, lost time, and lost resources. Shoutout Kevin Hu, Kevin Tan, Kevin Xiao!"
     },
     {
-      "title": "HackHarvard @ Harvard University",
-      "imagePath": "/images/projects/hackharvard-banner.png",
-      "githubLink": "https://hackharvard.io/",
-      "tags": [],
+      "title": "Safely",
+      "imagePath": "/images/projects/safely-banner.png",
+      "githubLink": "https://devpost.com/software/safely-today",
+      "tags": ["python", "go", "typescript", "javascript", "reactjs", "nextjs", "tailwindcss", "flask", "cloudflare", "elevenlabs", "docker", "vercel", "twilio", "websockets", "socket.io", "assemblyai", "gemini", "mapbox", "sentiment analysis", "mlh"],
       "prize": "HackHarvard 10 @ Harvard University (MLH)",
-      "description": "Stay tuned! Will be at HackHarvard 2025."
+      "description": "Our submission at HackHarvard 10! Safely Today is a personal safety app that uses websockets, AI and sentiment analysis to monitor you and your peers' real time locations and alert authorities automatically when distress is detected. Shoutout Gage Howe, Saketh Poori, and Adam Torres Encarnacion for the great weekend and for teaching me so much about tech!"
     },
     {
       "title": "Meme-o-Tron",
@@ -126,9 +126,9 @@
       "title": "Dance Dance ReVision",
       "imagePath": "/images/projects/hackwestern-banner.png",
       "githubLink": "https://dorahacks.io/buidl/20353",
-      "tags": ["typescript", "javascript", "google mediapipe", "computer vision", "howlerjs", "reactjs", "nextjs", "tailwindcss", "vercel"],
+      "tags": ["typescript", "javascript", "google mediapipe", "computer vision", "howlerjs", "reactjs", "nextjs", "tailwindcss", "vercel", "mlh"],
       "prize": "Hack Western 11 @ Western University (MLH)",
-      "description": "Dance-Dance ReVision brings you the classic Dance-Dance Revolution (DDR) arcade rhythm game right to your computer. Dance with computer vision! Shoutout Andrew Fenton and Khoa Bui!"
+      "description": "Dance-Dance ReVision brings you the classic Dance-Dance Revolution (DDR) arcade rhythm game right to your computer. Dance with computer vision! Shoutout Andrew Fenton and Khoa Bui for hacking with me at Hack Western 11!"
     },
     {
       "title": "UBCMA Membership Portal",
