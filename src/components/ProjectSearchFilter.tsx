@@ -1,16 +1,18 @@
 import { useState } from 'react';
 import { Search } from 'lucide-react';
 
+interface Project {
+  title: string;
+  imagePath: string;
+  githubLink: string;
+  tags: string[];
+  prize?: string;
+  description: string;
+}
+
 interface ProjectSearchFilterProps {
-  projects: Array<{
-    title: string;
-    imagePath: string;
-    githubLink: string;
-    tags: string[];
-    prize?: string;
-    description: string;
-  }>;
-  onFilterChange: (filteredProjects: any[]) => void;
+  projects: Project[];
+  onFilterChange: (filteredProjects: Project[]) => void;
 }
 
 export function ProjectSearchFilter({ projects, onFilterChange }: ProjectSearchFilterProps) {

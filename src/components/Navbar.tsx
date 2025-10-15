@@ -8,7 +8,8 @@ export function Navbar() {
   const navItems = [
     { label: 'Home', href: '#home' },
     { label: 'Experience', href: '#experience' },
-    { label: 'Portfolio', href: '#portfolio' },
+    { label: 'Projects', href: '#projects' },
+    { label: 'Cases', href: '#cases' },
     { label: 'Community', href: '#community' },
   ];
 

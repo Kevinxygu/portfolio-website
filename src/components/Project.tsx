@@ -45,11 +45,11 @@ export function Project({ title, imagePath, githubLink, tags, prize, description
               className="p-2 rounded-fullnsition-colors"
             >
               <Image
-                src="/icons/github.png"
-                alt="github"
+                src="/icons/external-link.png"
+                alt="external link icon"
                 width={32}
                 height={32}
-                className="w-8 h-8"
+                className="w-4 h-4"
               />
             </Link>
           </div>

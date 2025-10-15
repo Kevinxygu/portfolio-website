@@ -91,7 +91,7 @@
     },
     {
       "title": "Safely",
-      "imagePath": "/images/projects/safely-banner.png",
+      "imagePath": "/images/projects/safely-banner.gif",
       "githubLink": "https://devpost.com/software/safely-today",
       "tags": ["python", "go", "typescript", "javascript", "reactjs", "nextjs", "tailwindcss", "flask", "cloudflare", "elevenlabs", "docker", "vercel", "twilio", "websockets", "socket.io", "assemblyai", "gemini", "mapbox", "sentiment analysis", "mlh"],
       "prize": "HackHarvard 10 @ Harvard University (MLH)",
@@ -109,7 +109,7 @@
       "title": "UBC Esports Lounge App",
       "imagePath": "/images/projects/lounge-app-banner.gif",
       "githubLink": "https://github.com/ubcesports",
-      "tags": ["typescript", "javascript", "golang", "postgresql", "aws ec2", "docker", "reactjs", "nextjs", "tailwindcss", "ci/cd", "github actions", "vercel"],
+      "tags": ["typescript", "javascript", "go", "postgresql", "aws ec2", "docker", "reactjs", "nextjs", "tailwindcss", "ci/cd", "github actions", "vercel"],
       "prize": "🏆 Best Internal Department",
       "description": "Replaced a manual lounge check-in process with a sleek web app! Currently exploring a new monorepo architecture for the backend as we roll out new features for UBC's gaming community. Shoutout Josh Wu and Jaden Hums, my dev leads and the rest of the team!"
     },

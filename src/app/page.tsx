@@ -134,12 +134,12 @@ export default function HomePage() {
       </section>
 
       {/* Portfolio Section */}
-      <section id="portfolio" className="py-16 px-8 md:px-16 lg:px-24">
+      <section className="py-16 px-8 md:px-16 lg:px-24">
         <div className="max-w-7xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-semibold mb-8 text-palette-medium-green">Portfolio</h2>
 
           {/* Technical Projects with Search */}
-          <div className="mb-12">
+          <div className="mb-12" id="projects">
             <h3 className="text-xl font-medium mb-6 text-palette-medium-green">Technical Projects</h3>
             
             {/* Search and Filter */}
@@ -164,7 +164,7 @@ export default function HomePage() {
           </div>
 
           {/* Cases */}
-          <div className="mb-12">
+          <div className="mb-12" id="cases">
             <h3 className="text-xl font-medium mb-6 text-palette-medium-green">Case Studies and Competitions</h3>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               {cases.map((caseStudy, index) => (
