@@ -35,7 +35,7 @@ export default function HomePage() {
                 I&apos;m Kevin
               </h1>
               <p className="text-lg md:text-xl text-zinc-300 mb-8 max-w-xl">
-                I like software engineering, sales, and supporting my community by building experiences for them!
+                I like software engineering, sales, and supporting my community by leading free career coaching, hackathons, and case competitions!
               </p>
               
               {/* socials */}
