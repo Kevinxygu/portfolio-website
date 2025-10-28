@@ -91,7 +91,7 @@
     },
     {
       "title": "Nerve",
-      "imagePath": "/images/projects/nerve-banner.gif",
+      "imagePath": "/images/projects/productx-banner.gif",
       "githubLink": "https://devpost.com/software/nerve-1vlr0m",
       "tags": ["python", "typescript", "javascript", "tensorflow", "ngrok", "socket.io", "websockets", "assemblyai", "supabase", "nextjs", "reactjs", "expressjs", "openai", "tailwindcss", "mapbox", "nodejs", "sentiment analysis"],
       "prize": "🏆 2nd Place + 🏆 Startup Winner - UBC ProductX",
