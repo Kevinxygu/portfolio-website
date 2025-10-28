@@ -13,17 +13,30 @@ interface ProjectProps {
 }
 
 export function Project({ title, imagePath, githubLink, tags, prize, description }: ProjectProps) {
+  // Check if the image is a GIF to decide rendering method
+  const isGif = imagePath.toLowerCase().endsWith('.gif');
+  
   return (
     <Card className="h-full group overflow-hidden transition-all duration-200 hover:scale-105 hover:rotate-1 border-[#36573F]">
       <CardContent className="p-0">
         <div className="relative h-96 overflow-hidden">
-          <Image
-            src={imagePath}
-            alt={title}
-            width={500}
-            height={500}
-            className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
-          />
+          {isGif ? (
+            // Use regular img tag for GIFs
+            <img
+              src={imagePath}
+              alt={title}
+              className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
+            />
+          ) : (
+            // Use Next.js Image for other formats
+            <Image
+              src={imagePath}
+              alt={title}
+              width={500}
+              height={500}
+              className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
+            />
+          )}
           <div className="absolute inset-0" />
           
           {prize && (
@@ -42,7 +55,7 @@ export function Project({ title, imagePath, githubLink, tags, prize, description
               href={githubLink}
               target="_blank"
               rel="noopener noreferrer"
-              className="p-2 rounded-fullnsition-colors"
+              className="p-2 rounded-full transition-colors"
             >
               <Image
                 src="/icons/external-link.png"
