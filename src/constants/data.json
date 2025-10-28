@@ -6,7 +6,7 @@
       "tags": [
         { "name": "Coaching + Mentorship", "icon": "/icons/coaching-mentorship.png" },
         { "name": "Community", "icon": "/icons/community.png" }],
-      "description": "I'm 1 of 9 students coaching UBC Sauder students, with a focus on the BUCS (business + computer science) path! Shoutout Jonathan McQuarrie, Lauren du Toit, David Edwards, Val Ke and my fellow CPAs!",
+      "description": "I'm 1 of 9 students coaching UBC Sauder students, with a focus on the BUCS (business + computer science) path! Shoutout to Jonathan McQuarrie, Lauren du Toit, David Edwards, Val Ke and my fellow CPAs!",
       "link": "https://mybcom.sauder.ubc.ca/career-experience/career-coaching/career-peer-advisors"
     },
     {
@@ -19,7 +19,7 @@
         { "name": "AI Tools", "icon": "/icons/ai-tools.png" },
         { "name": "Capital Management", "icon": "/icons/sales.png" }
       ],
-      "description": "Drove automation and AI innovation for the Ops Capital Management team managing a billion-dollar budget. Shoutout Sean Phoenix, Ricardo Castillo, Terry Kaplan, Pooja Singh and Mursal Khyabani!",
+      "description": "Drove automation and AI innovation for the Ops Capital Management team managing a billion-dollar budget. Shoutout to Sean Phoenix, Ricardo Castillo, Terry Kaplan, Pooja Singh and Mursal Khyabani!",
       "link": "https://www.telus.com/en/about"
     },
     {
@@ -33,7 +33,7 @@
         { "name": "Salesforce", "icon": "/icons/salesforce.webp" }
 
       ],
-      "description": "Supported B2B SaaS sales deals as technical experts for Trulioo: an identity verification unicorn! Shoutout Michael Nolan, Shaun Singh and the SC team!",
+      "description": "Supported B2B SaaS sales deals as technical experts for Trulioo: an identity verification unicorn! Shoutout to Michael Nolan, Shaun Singh and the SC team!",
       "link": "https://www.trulioo.com/"
     },
     {
@@ -44,7 +44,7 @@
         { "name": "Automation", "icon": "/icons/automation.png" },
         { "name": "Docker", "icon": "/icons/docker.png" }
       ],
-      "description": "Built automation tools for ICBC’s Business Innovation and RPA team. Became first co-op to adopt a dual software engineer / business systems analyst role. Shoutout Ritchie Macapinlac, Gurinder Johal, and Chris Port!",
+      "description": "Built automation tools for ICBC’s Business Innovation and RPA team. Became first co-op to adopt a dual software engineer / business systems analyst role. Shoutout to Ritchie Macapinlac, Gurinder Johal, and Chris Port!",
       "link": "https://icbc.com/"
     },
     {
@@ -58,7 +58,7 @@
         { "name": "Databricks", "icon": "/icons/databricks.png" }
 
       ],
-      "description": "Implemented governance, risk, and compliance solutions for clients in a nimble 10-person cybersecurity startup. Shoutout Tejinder Basi and Hetash Parmar!",
+      "description": "Implemented governance, risk, and compliance solutions for clients in a nimble 10-person cybersecurity startup. Shoutout to Tejinder Basi and Hetash Parmar!",
       "link": "https://www.cyberiumgroup.com/"
     },
     {
@@ -68,7 +68,7 @@
         { "name": "Excel + Linear Programming", "icon": "/icons/excel.png" },
         { "name": "Coaching + Teaching", "icon": "/icons/coaching-mentorship.png" },
         { "name": "Community", "icon": "/icons/community.png" }],
-      "description": "TA'd COMM 190: Quantitative Decision Analysis, Linear Programming + Probability after scoring 100 in the course. Shoutout Greg Werker and Tim Huh!",
+      "description": "TA'd COMM 190: Quantitative Decision Analysis, Linear Programming + Probability after scoring 100 in the course. Shoutout to Greg Werker and Tim Huh!",
       "link": "https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-190"
     }
   ],
@@ -78,7 +78,7 @@
       "imagePath": "/images/projects/calhacks-banner.png",
       "githubLink": "https://devpost.com/software/pitchlab-clxhuj",
       "tags": ["go", "typescript", "websockets", "docker", "nextjs","reactjs", "gin", "claude", "elevenlabs", "sentiment analysis", "ai agents"],
-      "prize": "🏆 3rd place (Rox Tech Prize) - Cal Hacks 12.0 (MLH)",
+      "prize": "🏆 3rd place (Rox Tech Prize) - Cal Hacks (MLH)",
       "description": "My solo hack at Cal Hacks 12.0, the largest collegiate hackathon in the world with 3,600+ hackers! I placed 3rd in the Rox Tech prize track, focused on building AI agents using LLMs that act autonomously on real-world data. I built PitchLab end-to-end: a sales tool that generates mock sales calls so you can practicing talking to your prospect, before you actually do!"
     },
     {
@@ -87,23 +87,23 @@
       "githubLink": "https://www.linkedin.com/posts/pedro-soares-90826a248_hackathon-telushealth-ai-activity-7364729325478211585-5rB2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6TNrcBrof1BZoHIpg6iPmxRYe7LGVE09Q",
       "tags": ["python", "typescript", "javascript", "tensorflow", "reactjs", "nextjs", "nodejs", "movenet", "tailwindcss", "pandas", "numpy", "scikit-learn", "machine learning", "computer vision", "regression analysis"],
       "prize": "🏆 1st Place - TELUS Data & AI Hackathon",
-      "description": "A new feature on the TELUS Health & Wellbeing app that evaluates your exercise form with computer vision. After winning, our team is now exploring ways to integrate this solution into existing TELUS products and services! Shoutout Pedro Soares and Arianne Rull!"
+      "description": "A new feature on the TELUS Health & Wellbeing app that evaluates your exercise form with computer vision. After winning, our team is now exploring ways to integrate this solution into existing TELUS products and services! Shoutout to Pedro Soares and Arianne Rull!"
     },
     {
       "title": "Nerve",
       "imagePath": "/images/projects/productx-banner.gif",
       "githubLink": "https://devpost.com/software/nerve-1vlr0m",
       "tags": ["python", "typescript", "javascript", "tensorflow", "ngrok", "socket.io", "websockets", "assemblyai", "supabase", "nextjs", "reactjs", "expressjs", "openai", "tailwindcss", "mapbox", "nodejs", "sentiment analysis"],
-      "prize": "🏆 2nd Place + 🏆 Startup Winner - UBC ProductX",
-      "description": "Competed alongside three other Kevins at UBC ProductX, UBC BizTech's flagship hackathon. A real-time monitoring dashboard for emergency dispatch units, powered with sentiment analysis and critical event detection. We modernized existing legacy systems that are outdated and have lead to lost lives, lost time, and lost resources. Shoutout Kevin Hu, Kevin Tan, Kevin Xiao!"
+      "prize": "🏆 2nd Place + 🏆 Startup Winner - ProductX",
+      "description": "Competed alongside three other Kevins at UBC ProductX, UBC BizTech's flagship hackathon. A real-time monitoring dashboard for emergency dispatch units, powered with sentiment analysis and critical event detection. We modernized existing legacy systems that are outdated and have lead to lost lives, lost time, and lost resources. Shoutout to Kevin Hu, Kevin Tan, Kevin Xiao!"
     },
     {
       "title": "Safely",
       "imagePath": "/images/projects/safely-banner.gif",
       "githubLink": "https://devpost.com/software/safely-today",
       "tags": ["python", "go", "typescript", "javascript", "reactjs", "nextjs", "tailwindcss", "flask", "cloudflare", "elevenlabs", "docker", "vercel", "twilio", "websockets", "socket.io", "assemblyai", "gemini", "mapbox", "sentiment analysis", "mlh"],
-      "prize": "HackHarvard 10 @ Harvard University (MLH)",
-      "description": "Our submission at HackHarvard 10! Safely Today is a personal safety app that uses websockets, AI and sentiment analysis to monitor you and your peers' real time locations and alert authorities automatically when distress is detected. Shoutout Gage Howe, Saketh Poori, and Adam Torres Encarnacion for the great weekend and for teaching me so much about tech!"
+      "prize": "HackHarvard @ Harvard University (MLH)",
+      "description": "Our submission at HackHarvard 10! Safely Today is a personal safety app that uses websockets, AI and sentiment analysis to monitor you and your peers' real time locations and alert authorities automatically when distress is detected. Shoutout to Gage Howe, Saketh Poori, and Adam Torres Encarnacion for the great weekend and for teaching me so much about tech!"
     },
     {
       "title": "Meme-o-Tron",
@@ -111,7 +111,7 @@
       "githubLink": "https://devpost.com/software/meme-o-tron",
       "tags": ["typescript", "javascript", "reactjs", "nextjs", "tailwindcss", "openai", "json", "vercel", "computer vision"],
       "prize": "🏆 Winner - BUCS Hackathon",
-      "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and prepare to get roasted. Shoutout Ryan Haraki and Alison Hardy!"
+      "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and prepare to get roasted. Shoutout to Ryan Haraki and Alison Hardy!"
     },
         {
       "title": "UBC Esports Lounge App",
@@ -119,7 +119,7 @@
       "githubLink": "https://github.com/ubcesports",
       "tags": ["typescript", "javascript", "go", "postgresql", "aws ec2", "docker", "reactjs", "nextjs", "tailwindcss", "ci/cd", "github actions", "vercel"],
       "prize": "🏆 Best Internal Department",
-      "description": "Replaced a manual lounge check-in process with a sleek web app! Currently exploring a new monorepo architecture for the backend as we roll out new features for UBC's gaming community. Shoutout Josh Wu and Jaden Hums, my dev leads and the rest of the team!"
+      "description": "Replaced a manual lounge check-in process with a sleek web app! Currently exploring a new monorepo architecture for the backend as we roll out new features for UBC's gaming community. Shoutout to Josh Wu and Jaden Hums, my dev leads and the rest of the team!"
     },
     {
       "title": "Dance Dance ReVision",
@@ -127,14 +127,14 @@
       "githubLink": "https://dorahacks.io/buidl/20353",
       "tags": ["typescript", "javascript", "google mediapipe", "computer vision", "howlerjs", "reactjs", "nextjs", "tailwindcss", "vercel", "mlh"],
       "prize": "Hack Western 11 @ Western University (MLH)",
-      "description": "Dance-Dance ReVision brings you the classic Dance-Dance Revolution (DDR) arcade rhythm game right to your computer. Dance with computer vision! Shoutout Andrew Fenton and Khoa Bui for hacking with me at Hack Western 11!"
+      "description": "Dance-Dance ReVision brings you the classic Dance-Dance Revolution (DDR) arcade rhythm game right to your computer. Dance with computer vision! Shoutout to Andrew Fenton and Khoa Bui for hacking with me at Hack Western 11!"
     },
     {
       "title": "UBCMA Membership Portal",
       "imagePath": "/images/projects/ubcma-banner.png",
       "githubLink": "https://github.com/ubcma/",
       "tags": ["typescript", "javascript", "postgresql", "stripe", "aws ses", "uploadthing", "reactjs", "nextjs", "tailwindcss", "vercel"],
-      "description": "A full-stack web app for the UBC Marketing Association memberships supporting event registration, payment processing, and member management. Shoutout Ethan Hansen, Daniel Lee, Janaye Cheong, and Angela Huang!"
+      "description": "A full-stack web app for the UBC Marketing Association memberships supporting event registration, payment processing, and member management. Shoutout to Ethan Hansen, Daniel Lee, Janaye Cheong, and Angela Huang!"
     },
     {
       "title": "Computer Networking Projects",
@@ -151,7 +151,7 @@
       "companyLogoPath": "/images/logos/teaboco.png",
       "companyName": "Teaboco",
       "prize": "1st Place Overall",
-      "description": "Presented recommendations to increase Teaboco's UBC presence and obtain a B Corp Certification through influencer marketing and in-person campus partnerships. Shoutout Bonnie Xie, Katerina Chen, and Saren Vathanak!",
+      "description": "Presented recommendations to increase Teaboco's UBC presence and obtain a B Corp Certification through influencer marketing and in-person campus partnerships. Shoutout to Bonnie Xie, Katerina Chen, and Saren Vathanak!",
       "link": "https://drive.google.com/file/d/18aj-xdyY4mHRFzu8sw8C0YVIeS4zxdV9/view?usp=sharing"
     },
     {
@@ -160,7 +160,7 @@
       "companyLogoPath": "/images/logos/telus.png",
       "companyName": "TELUS",
       "prize": "2nd Place (Senior Case)",
-      "description": "Tackled new product growth for TELUS MyPet by implementing an AI Assistant, introducing hybrid pricing, designing a new vet directory and funding partnerships. Shoutout Bonnie Xie, Grace Kim, and Newgen Bao!",
+      "description": "Tackled new product growth for TELUS MyPet by implementing an AI Assistant, introducing hybrid pricing, designing a new vet directory and funding partnerships. Shoutout to Bonnie Xie, Grace Kim, and Newgen Bao!",
       "link": "https://github.com/Kevinxygu/imprint-TELUS"
     },
     {
@@ -169,7 +169,7 @@
       "companyLogoPath": "/images/logos/telus.png",
       "companyName": "TELUS",
       "prize": "2nd Place (Senior Case)",
-      "description": "Implemented a master rebrand for TELUS to showcase its diverse product lines and help them STAND OUT, SHARE OUT, and HELP OUT. Shoutout Bonnie Xie, Grace Kim, and Newgen Bao!",
+      "description": "Implemented a master rebrand for TELUS to showcase its diverse product lines and help them STAND OUT, SHARE OUT, and HELP OUT. Shoutout to Bonnie Xie, Grace Kim, and Newgen Bao!",
       "link": "https://github.com/Kevinxygu/imprint-TELUS"
     },
     {
@@ -178,7 +178,7 @@
       "companyLogoPath": "/images/logos/hootsuite.png",
       "companyName": "Hootsuite",
       "prize": "2nd Place (Hootsuite Challenge)",
-      "description": "Presented Hootsuite Connect: A new feature to connect brand influencers with businesses to create authentic social media content. Shoutout Borna Shani and Eric Gadbois!",
+      "description": "Presented Hootsuite Connect: A new feature to connect brand influencers with businesses to create authentic social media content. Shoutout to Borna Shani and Eric Gadbois!",
       "link": "https://drive.google.com/file/d/1RLcg40NO6Z0SE6jdfwWS2lyMhhzBfStZ/view?usp=sharing"
     },
     {
@@ -186,7 +186,7 @@
       "imagePath": "/images/cases/eprojects-banner.png",
       "companyLogoPath": "/images/logos/microsoft.png",
       "companyName": "Microsoft",
-      "description": "Presented Microsoft RUBY: a new city-wide dispatch system for emergency services to reduce response times and save lives, implemented with Microsoft Azure IoT services. Shoutout Elaine Li, John Grey and Marina Yu!",
+      "description": "Presented Microsoft RUBY: a new city-wide dispatch system for emergency services to reduce response times and save lives, implemented with Microsoft Azure IoT services. Shoutout to Elaine Li, John Grey and Marina Yu!",
       "link": "https://drive.google.com/file/d/14A1aYvrk81BKu8vV5G6Uft-zIloxxwx1/view?usp=sharing"
     },
     {
@@ -202,7 +202,7 @@
       "imagePath": "/images/cases/studios-banner.png",
       "companyLogoPath": "/images/logos/fashionoise.png",
       "companyName": "Fashionoise",
-      "description": "Consulted for a local Vancouver jewelry business by building their brand identity, designing a new website, and developing a multi-channel marketing strategy with Meta Ads, SEO, influencer partnerships, and social media content. Shoutout Elishia Yeung, Adeline Chan, Jessica Oh, Jayden Tsai, Priya Sidhu and Geonwoo Park!",
+      "description": "Consulted for a local Vancouver jewelry business by building their brand identity, designing a new website, and developing a multi-channel marketing strategy with Meta Ads, SEO, influencer partnerships, and social media content. Shoutout to Elishia Yeung, Adeline Chan, Jessica Oh, Jayden Tsai, Priya Sidhu and Geonwoo Park!",
       "link": "https://drive.google.com/file/d/1xcoIXCsrHGQ-J5UncXqId-WaIw7n38jY/view?usp=sharing"
     },
     {
@@ -210,7 +210,7 @@
       "imagePath": "/images/cases/apple-banner.gif",
       "companyLogoPath": "/images/logos/apple.png",
       "companyName": "Apple",
-      "description": "Presented a new Apple creator network and a new app interface to connect creators, influencers, and marketing voices for the Apple ecosystem. Class cases are kept proprietary. Shoutout Jasmine Chen, Khoa Bui, Navit Kaur and Fei Gao!",
+      "description": "Presented a new Apple creator network and a new app interface to connect creators, influencers, and marketing voices for the Apple ecosystem. Class cases are kept proprietary. Shoutout to Jasmine Chen, Khoa Bui, Navit Kaur and Fei Gao!",
       "link": "https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-296"
     },
     {
@@ -234,7 +234,7 @@
       "imagePath": "/images/cases/ey-banner.png",
       "companyLogoPath": "/images/logos/ey.png",
       "companyName": "EY",
-      "description": "Presented a prototype for WallEY, a new NFT-based platform to manage loyalty rewards programs. Shoutout Ryan Haraki, Borna Shani and Colin Grob!",
+      "description": "Presented a prototype for WallEY, a new NFT-based platform to manage loyalty rewards programs. Shoutout to Ryan Haraki, Borna Shani and Colin Grob!",
       "link": "https://drive.google.com/file/d/1MOokjZu-qRer7BlARbWromIIS98b303v/view?usp=sharing"
 
     }
