@@ -78,7 +78,7 @@
       "imagePath": "/images/projects/calhacks-banner.png",
       "githubLink": "https://devpost.com/software/pitchlab-clxhuj",
       "tags": ["go", "typescript", "websockets", "docker", "nextjs","reactjs", "gin", "claude", "elevenlabs", "sentiment analysis", "ai agents"],
-      "prize": "🏆 3rd place (Best Use of Rox) - Cal Hacks 12.0 (MLH)",
+      "prize": "🏆 3rd place (Rox Tech Prize) - Cal Hacks 12.0 (MLH)",
       "description": "My solo hack at Cal Hacks 12.0, the largest collegiate hackathon in the world with 3,600+ hackers! I placed 3rd in the Rox Tech prize track, focused on building AI agents using LLMs that act autonomously on real-world data. I built PitchLab end-to-end: a sales tool that generates mock sales calls so you can practicing talking to your prospect, before you actually do!"
     },
     {
