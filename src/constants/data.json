@@ -74,6 +74,14 @@
   ],
   "projects": [
     {
+      "title": "PitchLab",
+      "imagePath": "/images/projects/calhacks-banner.png",
+      "githubLink": "https://devpost.com/software/pitchlab-clxhuj",
+      "tags": ["go", "typescript", "websockets", "docker", "nextjs","reactjs", "gin", "claude", "elevenlabs", "sentiment analysis", "ai agents"],
+      "prize": "🏆 3rd place (Best Use of Rox) - Cal Hacks 12.0 (MLH)",
+      "description": "My solo hack at Cal Hacks 12.0, the largest collegiate hackathon in the world with 3,600+ hackers! I placed 3rd in the Rox Tech prize track, focused on building AI agents using LLMs that act autonomously on real-world data. I built PitchLab end-to-end: a sales tool that generates mock sales calls so you can practicing talking to your prospect, before you actually do!"
+    },
+    {
       "title": "TELUS Form Coach",
       "imagePath": "/images/projects/form-coach-banner.gif",
       "githubLink": "https://www.linkedin.com/posts/pedro-soares-90826a248_hackathon-telushealth-ai-activity-7364729325478211585-5rB2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6TNrcBrof1BZoHIpg6iPmxRYe7LGVE09Q",
@@ -86,8 +94,8 @@
       "imagePath": "/images/projects/nerve-banner.gif",
       "githubLink": "https://devpost.com/software/nerve-1vlr0m",
       "tags": ["python", "typescript", "javascript", "tensorflow", "ngrok", "socket.io", "websockets", "assemblyai", "supabase", "nextjs", "reactjs", "expressjs", "openai", "tailwindcss", "mapbox", "nodejs", "sentiment analysis"],
-      "prize": "🏆 2nd Place + 🏆 Startup Winner - UBC BizTech ProductX",
-      "description": "Competed alongside three other Kevins. A real-time monitoring dashboard for emergency dispatch units, powered with sentiment analysis and critical event detection. We modernized existing legacy systems that are outdated and have lead to lost lives, lost time, and lost resources. Shoutout Kevin Hu, Kevin Tan, Kevin Xiao!"
+      "prize": "🏆 2nd Place + 🏆 Startup Winner - UBC ProductX",
+      "description": "Competed alongside three other Kevins at UBC ProductX, UBC BizTech's flagship hackathon. A real-time monitoring dashboard for emergency dispatch units, powered with sentiment analysis and critical event detection. We modernized existing legacy systems that are outdated and have lead to lost lives, lost time, and lost resources. Shoutout Kevin Hu, Kevin Tan, Kevin Xiao!"
     },
     {
       "title": "Safely",
@@ -112,15 +120,6 @@
       "tags": ["typescript", "javascript", "go", "postgresql", "aws ec2", "docker", "reactjs", "nextjs", "tailwindcss", "ci/cd", "github actions", "vercel"],
       "prize": "🏆 Best Internal Department",
       "description": "Replaced a manual lounge check-in process with a sleek web app! Currently exploring a new monorepo architecture for the backend as we roll out new features for UBC's gaming community. Shoutout Josh Wu and Jaden Hums, my dev leads and the rest of the team!"
-    },
-    {
-      "title": "Cal Hacks 12.0 @ UC Berkeley",
-      "imagePath": "/images/projects/calhacks-banner.png",
-      "githubLink": "https://calhacks.io/",
-      "tags": [],
-      "prize": "CalHacks 12.0 @ UC Berkeley (MLH)",
-
-      "description": "Stay tuned! Will be at Cal Hacks 2025."
     },
     {
       "title": "Dance Dance ReVision",
