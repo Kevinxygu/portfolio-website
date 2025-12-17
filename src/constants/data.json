@@ -1,11 +1,18 @@
 {
   "experiences": [
-     {
+    {
       "title": "Career Peer Advisor @ UBC Sauder Business Career Centre",
       "imagePath": "/images/experience/cpa-banner.png",
       "tags": [
-        { "name": "Coaching + Mentorship", "icon": "/icons/coaching-mentorship.png" },
-        { "name": "Community", "icon": "/icons/community.png" }],
+        {
+          "name": "Coaching + Mentorship",
+          "icon": "/icons/coaching-mentorship.png"
+        },
+        {
+          "name": "Community",
+          "icon": "/icons/community.png"
+        }
+      ],
       "description": "I'm 1 of 9 students coaching UBC Sauder students, with a focus on the BUCS (business + computer science) path! Shoutout to Jonathan McQuarrie, Lauren du Toit, David Edwards, Val Ke and my fellow CPAs!",
       "link": "https://mybcom.sauder.ubc.ca/career-experience/career-coaching/career-peer-advisors"
     },
@@ -13,11 +20,26 @@
       "title": "Software Engineer Intern @ TELUS",
       "imagePath": "/images/experience/telus-banner.png",
       "tags": [
-        { "name": "Python", "icon": "/icons/python.png" },
-        { "name": "TypeScript", "icon": "/icons/typescript.png" },
-        { "name": "Automation", "icon": "/icons/automation.png" },
-        { "name": "AI Tools", "icon": "/icons/ai-tools.png" },
-        { "name": "Capital Management", "icon": "/icons/sales.png" }
+        {
+          "name": "Python",
+          "icon": "/icons/python.png"
+        },
+        {
+          "name": "TypeScript",
+          "icon": "/icons/typescript.png"
+        },
+        {
+          "name": "Automation",
+          "icon": "/icons/automation.png"
+        },
+        {
+          "name": "AI Tools",
+          "icon": "/icons/ai-tools.png"
+        },
+        {
+          "name": "Capital Management",
+          "icon": "/icons/sales.png"
+        }
       ],
       "description": "Drove automation and AI innovation for the Ops Capital Management team managing a billion-dollar budget. Shoutout to Sean Phoenix, Ricardo Castillo, Terry Kaplan, Pooja Singh and Mursal Khyabani!",
       "link": "https://www.telus.com/en/about"
@@ -26,12 +48,26 @@
       "title": "Solutions Engineer Intern @ Trulioo",
       "imagePath": "/images/experience/trulioo-banner.png",
       "tags": [
-        { "name": "Mobile", "icon": "/icons/mobile.png" },
-        { "name": "TypeScript", "icon": "/icons/typescript.png" },
-        { "name": "AI Tools", "icon": "/icons/ai-tools.png" },
-        { "name": "Sales", "icon": "/icons/sales.png" },
-        { "name": "Salesforce", "icon": "/icons/salesforce.webp" }
-
+        {
+          "name": "Mobile",
+          "icon": "/icons/mobile.png"
+        },
+        {
+          "name": "TypeScript",
+          "icon": "/icons/typescript.png"
+        },
+        {
+          "name": "AI Tools",
+          "icon": "/icons/ai-tools.png"
+        },
+        {
+          "name": "Sales",
+          "icon": "/icons/sales.png"
+        },
+        {
+          "name": "Salesforce",
+          "icon": "/icons/salesforce.webp"
+        }
       ],
       "description": "Supported B2B SaaS sales deals as technical experts for Trulioo: an identity verification unicorn! Shoutout to Michael Nolan, Shaun Singh and the SC team!",
       "link": "https://www.trulioo.com/"
@@ -40,9 +76,18 @@
       "title": "Software Engineer + Business Systems Analyst Co-op @ ICBC",
       "imagePath": "/images/experience/icbc-banner.png",
       "tags": [
-        { "name": "Python", "icon": "/icons/python.png" },
-        { "name": "Automation", "icon": "/icons/automation.png" },
-        { "name": "Docker", "icon": "/icons/docker.png" }
+        {
+          "name": "Python",
+          "icon": "/icons/python.png"
+        },
+        {
+          "name": "Automation",
+          "icon": "/icons/automation.png"
+        },
+        {
+          "name": "Docker",
+          "icon": "/icons/docker.png"
+        }
       ],
       "description": "Built automation tools for ICBC’s Business Innovation and RPA team. Became first co-op to adopt a dual software engineer / business systems analyst role. Shoutout to Ritchie Macapinlac, Gurinder Johal, and Chris Port!",
       "link": "https://icbc.com/"
@@ -51,12 +96,26 @@
       "title": "Software Engineer Intern @ Cyberium Group",
       "imagePath": "/images/experience/cyberium-banner.png",
       "tags": [
-        { "name": "Python", "icon": "/icons/python.png" },
-        { "name": "AWS", "icon": "/icons/aws.png" },
-        { "name": "Azure", "icon": "/icons/azure.png" },
-        { "name": "Cybersecurity", "icon": "/icons/cybersecurity.png" },
-        { "name": "Databricks", "icon": "/icons/databricks.png" }
-
+        {
+          "name": "Python",
+          "icon": "/icons/python.png"
+        },
+        {
+          "name": "AWS",
+          "icon": "/icons/aws.png"
+        },
+        {
+          "name": "Azure",
+          "icon": "/icons/azure.png"
+        },
+        {
+          "name": "Cybersecurity",
+          "icon": "/icons/cybersecurity.png"
+        },
+        {
+          "name": "Databricks",
+          "icon": "/icons/databricks.png"
+        }
       ],
       "description": "Implemented governance, risk, and compliance solutions for clients in a nimble 10-person cybersecurity startup. Shoutout to Tejinder Basi and Hetash Parmar!",
       "link": "https://www.cyberiumgroup.com/"
@@ -65,9 +124,19 @@
       "title": "COMM 190 TA @ UBC Sauder",
       "imagePath": "/images/experience/ta-banner.png",
       "tags": [
-        { "name": "Excel + Linear Programming", "icon": "/icons/excel.png" },
-        { "name": "Coaching + Teaching", "icon": "/icons/coaching-mentorship.png" },
-        { "name": "Community", "icon": "/icons/community.png" }],
+        {
+          "name": "Excel + Linear Programming",
+          "icon": "/icons/excel.png"
+        },
+        {
+          "name": "Coaching + Teaching",
+          "icon": "/icons/coaching-mentorship.png"
+        },
+        {
+          "name": "Community",
+          "icon": "/icons/community.png"
+        }
+      ],
       "description": "TA'd COMM 190: Quantitative Decision Analysis, Linear Programming + Probability after scoring 100 in the course. Shoutout to Greg Werker and Tim Huh!",
       "link": "https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-190"
     }
@@ -77,15 +146,43 @@
       "title": "PitchLab",
       "imagePath": "/images/projects/calhacks-banner.png",
       "githubLink": "https://devpost.com/software/pitchlab-clxhuj",
-      "tags": ["go", "typescript", "websockets", "docker", "nextjs","reactjs", "gin", "claude", "elevenlabs", "sentiment analysis", "ai agents"],
+      "tags": [
+        "go",
+        "typescript",
+        "websockets",
+        "docker",
+        "nextjs",
+        "reactjs",
+        "gin",
+        "claude",
+        "elevenlabs",
+        "sentiment analysis",
+        "ai agents"
+      ],
       "prize": "🏆 3rd place (Rox Tech Prize) - Cal Hacks (MLH)",
-      "description": "My solo hack at Cal Hacks 12.0, the largest collegiate hackathon in the world with 3,600+ hackers! I placed 3rd in the Rox Tech prize track, focused on building AI agents using LLMs that act autonomously on real-world data. I built PitchLab end-to-end: a sales tool that generates mock sales calls so you can practicing talking to your prospect, before you actually do!"
+      "description": "My solo hack at Cal Hacks 12.0, the largest collegiate hackathon in the world with 3,600+ hackers! I placed 3rd in the Rox Tech prize track, focused on building AI agents using LLMs that act autonomously on real-world data. I built PitchLab end-to-end: a sales tool that generates mock sales calls so you can practicing talking to your prospect, before you actually do. We then shipped this project to 150+ users in 24 hours as part of UBC BizTech's KickStart startup competition!"
     },
     {
       "title": "TELUS Form Coach",
       "imagePath": "/images/projects/form-coach-banner.gif",
       "githubLink": "https://www.linkedin.com/posts/pedro-soares-90826a248_hackathon-telushealth-ai-activity-7364729325478211585-5rB2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6TNrcBrof1BZoHIpg6iPmxRYe7LGVE09Q",
-      "tags": ["python", "typescript", "javascript", "tensorflow", "reactjs", "nextjs", "nodejs", "movenet", "tailwindcss", "pandas", "numpy", "scikit-learn", "machine learning", "computer vision", "regression analysis"],
+      "tags": [
+        "python",
+        "typescript",
+        "javascript",
+        "tensorflow",
+        "reactjs",
+        "nextjs",
+        "nodejs",
+        "movenet",
+        "tailwindcss",
+        "pandas",
+        "numpy",
+        "scikit-learn",
+        "machine learning",
+        "computer vision",
+        "regression analysis"
+      ],
       "prize": "🏆 1st Place - TELUS Data & AI Hackathon",
       "description": "A new feature on the TELUS Health & Wellbeing app that evaluates your exercise form with computer vision. After winning, our team is now exploring ways to integrate this solution into existing TELUS products and services! Shoutout to Pedro Soares and Arianne Rull!"
     },
@@ -93,7 +190,25 @@
       "title": "Nerve",
       "imagePath": "/images/projects/productx-banner.gif",
       "githubLink": "https://devpost.com/software/nerve-1vlr0m",
-      "tags": ["python", "typescript", "javascript", "tensorflow", "ngrok", "socket.io", "websockets", "assemblyai", "supabase", "nextjs", "reactjs", "expressjs", "openai", "tailwindcss", "mapbox", "nodejs", "sentiment analysis"],
+      "tags": [
+        "python",
+        "typescript",
+        "javascript",
+        "tensorflow",
+        "ngrok",
+        "socket.io",
+        "websockets",
+        "assemblyai",
+        "supabase",
+        "nextjs",
+        "reactjs",
+        "expressjs",
+        "openai",
+        "tailwindcss",
+        "mapbox",
+        "nodejs",
+        "sentiment analysis"
+      ],
       "prize": "🏆 2nd Place + 🏆 Startup Winner - ProductX",
       "description": "Competed alongside three other Kevins at UBC ProductX, UBC BizTech's flagship hackathon. A real-time monitoring dashboard for emergency dispatch units, powered with sentiment analysis and critical event detection. We modernized existing legacy systems that are outdated and have lead to lost lives, lost time, and lost resources. Shoutout to Kevin Hu, Kevin Tan, Kevin Xiao!"
     },
@@ -101,23 +216,74 @@
       "title": "Safely",
       "imagePath": "/images/projects/safely-banner.gif",
       "githubLink": "https://devpost.com/software/safely-today",
-      "tags": ["python", "go", "typescript", "javascript", "reactjs", "nextjs", "tailwindcss", "flask", "cloudflare", "elevenlabs", "docker", "vercel", "twilio", "websockets", "socket.io", "assemblyai", "gemini", "mapbox", "sentiment analysis", "mlh"],
+      "tags": [
+        "python",
+        "go",
+        "typescript",
+        "javascript",
+        "reactjs",
+        "nextjs",
+        "tailwindcss",
+        "flask",
+        "cloudflare",
+        "elevenlabs",
+        "docker",
+        "vercel",
+        "twilio",
+        "websockets",
+        "socket.io",
+        "assemblyai",
+        "gemini",
+        "mapbox",
+        "sentiment analysis",
+        "mlh"
+      ],
       "prize": "HackHarvard @ Harvard University (MLH)",
       "description": "Our submission at HackHarvard 10! Safely Today is a personal safety app that uses websockets, AI and sentiment analysis to monitor you and your peers' real time locations and alert authorities automatically when distress is detected. Shoutout to Gage Howe, Saketh Poori, and Adam Torres Encarnacion for the great weekend and for teaching me so much about tech!"
+    },
+    {
+      "title": "TreeHacks @ Stanford University",
+      "imagePath": "/images/projects/treehacks-banner.png",
+      "githubLink": "https://treehacks.com/",
+      "tags": [],
+      "description": "One of 1000+ hackers accepted out of 15,000+ applicants for TreeHacks, Stanford's hackathon! Stay tuned on what we build :)"
     },
     {
       "title": "Meme-o-Tron",
       "imagePath": "/images/projects/meme-o-tron-banner.png",
       "githubLink": "https://devpost.com/software/meme-o-tron",
-      "tags": ["typescript", "javascript", "reactjs", "nextjs", "tailwindcss", "openai", "json", "vercel", "computer vision"],
+      "tags": [
+        "typescript",
+        "javascript",
+        "reactjs",
+        "nextjs",
+        "tailwindcss",
+        "openai",
+        "json",
+        "vercel",
+        "computer vision"
+      ],
       "prize": "🏆 Winner - BUCS Hackathon",
       "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and prepare to get roasted. Shoutout to Ryan Haraki and Alison Hardy!"
     },
-        {
+    {
       "title": "UBC Esports Lounge App",
       "imagePath": "/images/projects/lounge-app-banner.gif",
       "githubLink": "https://github.com/ubcesports",
-      "tags": ["typescript", "javascript", "go", "postgresql", "aws ec2", "docker", "reactjs", "nextjs", "tailwindcss", "ci/cd", "github actions", "vercel"],
+      "tags": [
+        "typescript",
+        "javascript",
+        "go",
+        "postgresql",
+        "aws ec2",
+        "docker",
+        "reactjs",
+        "nextjs",
+        "tailwindcss",
+        "ci/cd",
+        "github actions",
+        "vercel"
+      ],
       "prize": "🏆 Best Internal Department",
       "description": "Replaced a manual lounge check-in process with a sleek web app! Currently exploring a new monorepo architecture for the backend as we roll out new features for UBC's gaming community. Shoutout to Josh Wu and Jaden Hums, my dev leads and the rest of the team!"
     },
@@ -125,7 +291,18 @@
       "title": "Dance Dance ReVision",
       "imagePath": "/images/projects/hackwestern-banner.png",
       "githubLink": "https://dorahacks.io/buidl/20353",
-      "tags": ["typescript", "javascript", "google mediapipe", "computer vision", "howlerjs", "reactjs", "nextjs", "tailwindcss", "vercel", "mlh"],
+      "tags": [
+        "typescript",
+        "javascript",
+        "google mediapipe",
+        "computer vision",
+        "howlerjs",
+        "reactjs",
+        "nextjs",
+        "tailwindcss",
+        "vercel",
+        "mlh"
+      ],
       "prize": "Hack Western 11 @ Western University (MLH)",
       "description": "Dance-Dance ReVision brings you the classic Dance-Dance Revolution (DDR) arcade rhythm game right to your computer. Dance with computer vision! Shoutout to Andrew Fenton and Khoa Bui for hacking with me at Hack Western 11!"
     },
@@ -133,14 +310,37 @@
       "title": "UBCMA Membership Portal",
       "imagePath": "/images/projects/ubcma-banner.png",
       "githubLink": "https://github.com/ubcma/",
-      "tags": ["typescript", "javascript", "postgresql", "stripe", "aws ses", "uploadthing", "reactjs", "nextjs", "tailwindcss", "vercel"],
+      "tags": [
+        "typescript",
+        "javascript",
+        "postgresql",
+        "stripe",
+        "aws ses",
+        "uploadthing",
+        "reactjs",
+        "nextjs",
+        "tailwindcss",
+        "vercel"
+      ],
       "description": "A full-stack web app for the UBC Marketing Association memberships supporting event registration, payment processing, and member management. Shoutout to Ethan Hansen, Daniel Lee, Janaye Cheong, and Angela Huang!"
     },
     {
       "title": "Computer Networking Projects",
       "imagePath": "/images/projects/317-banner.png",
       "githubLink": "https://www.cs.ubc.ca/course-section/cpsc-317-101-2021w",
-      "tags": ["java", "c", "socket programming", "tcp", "udp", "http", "pop3", "smtp", "networking", "multithreading", "encryption"],
+      "tags": [
+        "java",
+        "c",
+        "socket programming",
+        "tcp",
+        "udp",
+        "http",
+        "pop3",
+        "smtp",
+        "networking",
+        "multithreading",
+        "encryption"
+      ],
       "description": "A collection of projects from UBC'S CPSC 317: Computer Networking written in Java and C. The projects primarily cover socket programming and various network protocols. The source code cannot be shared due to academic integrity policies."
     }
   ],
@@ -244,7 +444,6 @@
       "companyName": "EY",
       "description": "Presented a prototype for WallEY, a new NFT-based platform to manage loyalty rewards programs. Shoutout to Ryan Haraki, Borna Shani and Colin Grob!",
       "link": "https://drive.google.com/file/d/1MOokjZu-qRer7BlARbWromIIS98b303v/view?usp=sharing"
-
     }
   ],
   "extracurriculars": [
@@ -252,63 +451,92 @@
       "title": "nwPlus",
       "description": "We're Western Canada's largest hackathon organizer, with 3 every year: HackCamp, nwHacks, and cmd-f. We're MLH-affiliated, supporting 1250+ hackers across our events!",
       "imagePath": "/images/extracurricular/nwplus-banner.png",
-      "roles": ["Treasurer", "Sponsorship Lead", "Sponsorship Coordinator"],
+      "roles": [
+        "Treasurer",
+        "Sponsorship Lead",
+        "Sponsorship Coordinator"
+      ],
       "link": "https://nwplus.io/"
     },
     {
       "title": "UBC Marketing Association (UBCMA)",
       "description": "We're UBC's only marketing focused student club, bringing you events and opportunities to learn about marketing, network with industry professionals, and build your skills.",
       "imagePath": "/images/extracurricular/ubcma-banner.png",
-      "roles": ["Software Engineer", "Senior Pro Bono Consultant - Studios"],
+      "roles": [
+        "Software Engineer",
+        "Senior Pro Bono Consultant - Studios"
+      ],
       "link": "https://www.ubcma.ca/"
     },
     {
       "title": "UBC Esports Association (UBCEA)",
       "description": "UBC's gaming club! We host events, tournaments, and come by the gaming lounge in the Nest to unwind between (or during) your classes.",
       "imagePath": "/images/extracurricular/ubcea-banner.png",
-      "roles": ["Software Engineer", "Product Manager", "External Relations"],
+      "roles": [
+        "Software Engineer",
+        "Product Manager",
+        "External Relations"
+      ],
       "link": "https://www.ubcesports.ca/"
     },
     {
       "title": "Sauder Summit Global Case Competition",
       "description": "Annual case competition hosted by the Sauder School of Business, bringing together top students from around the world to solve real business challenges.",
       "imagePath": "/images/extracurricular/summit-banner.png",
-      "roles": ["Competitions Director"],
+      "roles": [
+        "Competitions Director"
+      ],
       "link": "https://www.saudersummit.ca/"
     },
     {
       "title": "Enactus UBC",
       "description": "We're UBC's branch for Enactus, a global non-profit organization dedicated to inspiring students to improve the world through entrepreneurial action.",
       "imagePath": "/images/extracurricular/enactus-banner.png",
-      "roles": ["Tech Advisor", "Lead Software Engineer", "Ennovate Tech Lead", "Ennovate Project Associate"],
+      "roles": [
+        "Tech Advisor",
+        "Lead Software Engineer",
+        "Ennovate Tech Lead",
+        "Ennovate Project Associate"
+      ],
       "link": "https://enactusubc.ca/"
     },
     {
       "title": "National Strategy Consulting Case Competition & Conference (NSCC)",
       "description": "Sauder's top case competition 2025! We're Canada's premier strategy case competition and conference for all things consulting.",
       "imagePath": "/images/extracurricular/nscc-banner.png",
-      "roles": ["Conference Associate", "Conference Experience Coordinator (CEC)"],
+      "roles": [
+        "Conference Associate",
+        "Conference Experience Coordinator (CEC)"
+      ],
       "link": "https://www.thenscc.com/"
     },
     {
       "title": "HelloHacks by UBC BizTech",
       "description": "A beginner-friendly hackathon hosted by UBC BizTech, one of UBC's largest tech clubs.",
       "imagePath": "/images/extracurricular/biztech-banner.png",
-      "roles": ["Hackathon Mentor"],
+      "roles": [
+        "Hackathon Mentor"
+      ],
       "link": "https://www.ubcbiztech.com/"
     },
     {
       "title": "BUCS Community Team",
       "description": "Fostering community and events for UBC Sauder's business and computer science (BUCS) students.",
       "imagePath": "/images/extracurricular/bucs-banner.png",
-      "roles": ["Chair", "First Year Rep"],
+      "roles": [
+        "Chair",
+        "First Year Rep"
+      ],
       "link": "http://ubcbucs.ca/"
     },
     {
       "title": "UBC Sauder Orientations",
       "description": "Welcoming first years to UBC Sauder with fun events, mentorship, and community building!",
       "imagePath": "/images/extracurricular/ol-banner.png",
-      "roles": ["Orientation Leader - 2024", "Orientation Leader - 2023"],
+      "roles": [
+        "Orientation Leader - 2024",
+        "Orientation Leader - 2023"
+      ],
       "link": "https://www.ubcsauderspark.com/"
     }
   ]
