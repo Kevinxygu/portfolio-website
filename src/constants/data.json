@@ -246,6 +246,7 @@
       "imagePath": "/images/projects/treehacks-banner.png",
       "githubLink": "https://treehacks.com/",
       "tags": [],
+      "prize": "TreeHacks @ Stanford University (MLH)",
       "description": "One of 1000+ hackers accepted out of 15,000+ applicants for TreeHacks, Stanford's hackathon! Stay tuned on what we build :)"
     },
     {
@@ -323,6 +324,36 @@
         "vercel"
       ],
       "description": "A full-stack web app for the UBC Marketing Association memberships supporting event registration, payment processing, and member management. Shoutout to Ethan Hansen, Daniel Lee, Janaye Cheong, and Angela Huang!"
+    },
+    {
+      "title": "Where's Waldo?",
+      "imagePath": "/images/projects/wheres-waldo-banner.png",
+      "githubLink": "https://wheres-waldo-game.netlify.app/",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "vite"
+      ],
+      "description": "Classic Where's Waldo! Give it a try by clicking above :)"
+    },
+    {
+      "title": "InsightUBC",
+      "imagePath": "/images/projects/insightubc-banner.png",
+      "githubLink": "https://github.com/ubccpsc/310",
+      "tags": [
+        "typescript",
+        "nodejs",
+        "express",
+        "nextjs",
+        "reactjs",
+        "chartjs",
+        "mocha",
+        "unit testing",
+        "chai",
+        "rest api design",
+        "tdd"
+      ],
+      "description": "A full-stack web application visualizing UBC course and building data. I built a custom query engine from scratch in TypeScript, and exposes REST APIs in the backend using Express. This project was a deep dive into software engineering principles, emphasizing Test-Driven Development (TDD) with a comprehensive Mocha/Chai test suite, asynchronous programming, and clean architecture. The source code cannot be shared due to academic integrity policies. Shoutout my partner Kevin Tan!"
     },
     {
       "title": "Computer Networking Projects",
