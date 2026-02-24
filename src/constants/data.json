@@ -143,6 +143,26 @@
   ],
   "projects": [
     {
+      "title": "Bloom",
+      "imagePath": "/images/projects/treehacks-banner.png",
+      "githubLink": "https://devpost.com/software/bloom-dvjpea",
+      "tags": [
+        "python",
+        "typescript",
+        "react native",
+        "nextjs",
+        "reactjs",
+        "fastapi",
+        "claude",
+        "elevenlabs",
+        "vercel",
+        "openevidence",
+        "browserbase"
+      ],
+      "prize": "🏆 1st (Anthropic Track + Decagon Prize) - Stanford Treehacks",
+      "description": "We won first place twice at Stanford's Treehacks: The world's most prestigous hackathon with 1,100+ hackers out of 15,000+ applicants! We won first in the Anthropic Human Flourishing Track out of 252 projects, and the Decagon Prize for Best Conversation Assistant out of 82 projects. Bloom is a voice-first agentic assistant powered by Claude and ElevenLabs that helps seniors book Ubers, manage medications, and navigate the web all through natural conversation. It also monitors for early signs of cognitive decline through speech pattern analysis, combats loneliness with reminiscence therapy + family media sharing, and streams real-time health metrics from wearables to caretakers. Shoutout to Paul Tiberghien, Vaibhav Sharma, and Alberto Escobar Mingo!"
+    },
+    {
       "title": "PitchLab",
       "imagePath": "/images/projects/calhacks-banner.png",
       "githubLink": "https://devpost.com/software/pitchlab-clxhuj",
@@ -159,7 +179,7 @@
         "sentiment analysis",
         "ai agents"
       ],
-      "prize": "🏆 3rd place (Rox Tech Prize) - Cal Hacks (MLH)",
+      "prize": "🏆 3rd (Rox Tech Prize) - Cal Hacks (MLH)",
       "description": "My solo hack at Cal Hacks 12.0, the largest collegiate hackathon in the world with 3,600+ hackers! I placed 3rd in the Rox Tech prize track, focused on building AI agents using LLMs that act autonomously on real-world data. I built PitchLab end-to-end: a sales tool that generates mock sales calls so you can practicing talking to your prospect, before you actually do. We then shipped this project to 150+ users in 24 hours as part of UBC BizTech's KickStart startup competition!"
     },
     {
