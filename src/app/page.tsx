@@ -49,7 +49,6 @@ export default function HomePage() {
                   <p className="text-lg md:text-xl text-zinc-300 mb-8 max-w-xl">
                     I&apos;m interested in combining software engineering and sales to build solutions tackling difficult problems, educate others, and support my community
                   </p>
-
                   {/* socials */}
                   <div className="flex gap-2 mb-8">
                     <a
@@ -190,7 +189,7 @@ export default function HomePage() {
           {/* Community Section */}
           <section id="community" className="py-16 px-8 md:px-16 lg:px-24">
             <div className="max-w-7xl mx-auto">
-              <h2 className="text-2xl md:text-3xl font-semibold mb-8 text-palette-medium-green">Community Involvement</h2>
+              <h2 className="text-2xl md:text-3xl font-semibold mb-8 text-palette-medium-green">Community</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 {extracurriculars.map((activity, index) => (
                   <Extracurricular key={index} {...activity} />

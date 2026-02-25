@@ -173,7 +173,7 @@
       ],
       "prize": "🏆 1st (Anthropic Track + Decagon Prize) - Stanford Treehacks",
       "description": "We won first place twice at Stanford's Treehacks: The world's most prestigous hackathon with 1,100+ hackers out of 15,000+ applicants! We won first in the Anthropic Human Flourishing Track out of 252 projects, and the Decagon Prize for Best Conversation Assistant out of 82 projects. Bloom is a voice-first agentic assistant powered by Claude and ElevenLabs that helps seniors book Ubers, manage medications, and navigate the web all through natural conversation. It also monitors for early signs of cognitive decline through speech pattern analysis, combats loneliness with reminiscence therapy + family media sharing, and streams real-time health metrics from wearables to caretakers. Shoutout to Paul Tiberghien, Vaibhav Sharma, and Alberto Escobar Mingo!",
-      "compactText": "Bloom - 1st @ Treehacks, Stanford (Anthropic Track + Decagon Prize)",
+      "compactText": "🏆 🏆 Bloom - 1st @ Treehacks, Stanford (Anthropic Track + Decagon Prize)",
       "dotColor": "#5B998A"
     },
     {
@@ -195,7 +195,7 @@
       ],
       "prize": "🏆 3rd (Rox Tech Prize) - Cal Hacks (MLH)",
       "description": "My solo hack at Cal Hacks 12.0, the largest collegiate hackathon in the world with 3,600+ hackers! I placed 3rd in the Rox Tech prize track, focused on building AI agents using LLMs that act autonomously on real-world data. I built PitchLab end-to-end: a sales tool that generates mock sales calls so you can practicing talking to your prospect, before you actually do. We then shipped this project to 150+ users in 24 hours as part of UBC BizTech's KickStart startup competition!",
-      "compactText": "PitchLab - 3rd @ Cal Hacks, UC Berkeley (Rox Tech Prize)",
+      "compactText": "🏆 PitchLab - 3rd @ Cal Hacks, UC Berkeley (Rox Tech Prize)",
       "dotColor": "#3136E6"
     },
     {
@@ -221,7 +221,7 @@
       ],
       "prize": "🏆 1st - TELUS Data & AI Hackathon",
       "description": "A new feature on the TELUS Health & Wellbeing app that evaluates your exercise form with computer vision. After winning, our team is now exploring ways to integrate this solution into existing TELUS products and services! Shoutout to Pedro Soares and Arianne Rull!",
-      "compactText": "Form Coach - 1st @ TELUS Data & AI Hackathon",
+      "compactText": "🏆 Form Coach - 1st @ TELUS Data & AI Hackathon",
       "dotColor": "#66CC00"
     },
     {
@@ -249,8 +249,51 @@
       ],
       "prize": "🏆 2nd Place + 🏆 Startup Winner - ProductX",
       "description": "Competed alongside three other Kevins at UBC ProductX, UBC BizTech's flagship hackathon. A real-time monitoring dashboard for emergency dispatch units, powered with sentiment analysis and critical event detection. We modernized existing legacy systems that are outdated and have lead to lost lives, lost time, and lost resources. Shoutout to Kevin Hu, Kevin Tan, Kevin Xiao!",
-      "compactText": "Nerve - 2nd + Startup Winner @ BizTech ProductX, UBC",
+      "compactText": "🏆 🏆 Nerve - 2nd + Startup Winner @ BizTech ProductX, UBC",
       "dotColor": "#888888"
+    },
+    {
+      "title": "Meme-o-Tron",
+      "imagePath": "/images/projects/meme-o-tron-banner.png",
+      "githubLink": "https://devpost.com/software/meme-o-tron",
+      "tags": [
+        "typescript",
+        "javascript",
+        "reactjs",
+        "nextjs",
+        "tailwindcss",
+        "openai",
+        "json",
+        "vercel",
+        "computer vision"
+      ],
+      "prize": "🏆 Winner - BUCS Hackathon",
+      "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and prepare to get roasted. Shoutout to Ryan Haraki and Alison Hardy!",
+      "compactText": "🏆 Meme-o-Tron - 1st @ BUCS Hackathon, UBC",
+      "dotColor": "#FFFFFF"
+    },
+    {
+      "title": "UBC Esports Lounge App",
+      "imagePath": "/images/projects/lounge-app-banner.gif",
+      "githubLink": "https://github.com/ubcesports",
+      "tags": [
+        "typescript",
+        "javascript",
+        "go",
+        "postgresql",
+        "aws ec2",
+        "docker",
+        "reactjs",
+        "nextjs",
+        "tailwindcss",
+        "ci/cd",
+        "github actions",
+        "vercel"
+      ],
+      "prize": "🏆 Best Internal Department",
+      "description": "Replaced a manual lounge check-in process with a sleek web app! Currently exploring a new monorepo architecture for the backend as we roll out new features for UBC's gaming community. Shoutout to Josh Wu and Jaden Hums, my dev leads and the rest of the team!",
+      "compactText": "🏆 UBC Esports Lounge App - Best Internal Department",
+      "dotColor": "#3360F2"
     },
     {
       "title": "Safely",
@@ -280,51 +323,8 @@
       ],
       "prize": "HackHarvard @ Harvard University (MLH)",
       "description": "Our submission at HackHarvard 10! Safely Today is a personal safety app that uses websockets, AI and sentiment analysis to monitor you and your peers' real time locations and alert authorities automatically when distress is detected. Shoutout to Gage Howe, Saketh Poori, and Adam Torres Encarnacion for the great weekend and for teaching me so much about tech!",
-      "compactText": "Safely - HackHarvard, Harvard University",
+      "compactText": "Safely - HackHarvard, Harvard",
       "dotColor": "#9B0000"
-    },
-    {
-      "title": "Meme-o-Tron",
-      "imagePath": "/images/projects/meme-o-tron-banner.png",
-      "githubLink": "https://devpost.com/software/meme-o-tron",
-      "tags": [
-        "typescript",
-        "javascript",
-        "reactjs",
-        "nextjs",
-        "tailwindcss",
-        "openai",
-        "json",
-        "vercel",
-        "computer vision"
-      ],
-      "prize": "🏆 Winner - BUCS Hackathon",
-      "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and prepare to get roasted. Shoutout to Ryan Haraki and Alison Hardy!",
-      "compactText": "Meme-o-Tron - 1st @ BUCS Hackathon, UBC",
-      "dotColor": "#FFFFFF"
-    },
-    {
-      "title": "UBC Esports Lounge App",
-      "imagePath": "/images/projects/lounge-app-banner.gif",
-      "githubLink": "https://github.com/ubcesports",
-      "tags": [
-        "typescript",
-        "javascript",
-        "go",
-        "postgresql",
-        "aws ec2",
-        "docker",
-        "reactjs",
-        "nextjs",
-        "tailwindcss",
-        "ci/cd",
-        "github actions",
-        "vercel"
-      ],
-      "prize": "🏆 Best Internal Department",
-      "description": "Replaced a manual lounge check-in process with a sleek web app! Currently exploring a new monorepo architecture for the backend as we roll out new features for UBC's gaming community. Shoutout to Josh Wu and Jaden Hums, my dev leads and the rest of the team!",
-      "compactText": "UBC Esports Lounge App - Best Internal Department",
-      "dotColor": "#3360F2"
     },
     {
       "title": "Dance Dance ReVision",
@@ -344,7 +344,7 @@
       ],
       "prize": "Hack Western 11 @ Western University (MLH)",
       "description": "Dance-Dance ReVision brings you the classic Dance-Dance Revolution (DDR) arcade rhythm game right to your computer. Dance with computer vision! Shoutout to Andrew Fenton and Khoa Bui for hacking with me at Hack Western 11!",
-      "compactText": "Dance Dance ReVision - Hack Western, Western University",
+      "compactText": "Dance Dance ReVision - Hack Western, Western",
       "dotColor": "#9A64F6"
     },
     {
@@ -387,6 +387,26 @@
       "description": "A full-stack web application visualizing UBC course and building data. I built a custom query engine from scratch in TypeScript, and exposes REST APIs in the backend using Express. This project was a deep dive into software engineering principles, emphasizing Test-Driven Development (TDD) with a comprehensive Mocha/Chai test suite, asynchronous programming, and clean architecture. The source code cannot be shared due to academic integrity policies. Shoutout my partner Kevin Tan!",
       "compactText": "InsightUBC - CPSC 310 Academic Project",
       "dotColor": "#FFFFFF"
+    },
+    {
+      "title": "Stock Trading Custom Domain Specific Language (DSL)",
+      "imagePath": "/images/projects/stockdsl-banner.png",
+      "githubLink": "https://ubccsss.org/services/courses/cpsc-410/",
+      "tags": [
+        "python",
+        "typescript",
+        "antlr v4",
+        "abstract syntax trees",
+        "query engine",
+        "flask",
+        "nextjs",
+        "reactjs",
+        "language design",
+        "compilers"
+      ],
+      "description": "Engineered a full-stack custom Domain-Specific Language (DSL) architecture for algorithmic trading and intelligent portfolio management. We built this together as a team from scratch using ANTLR v4, building a robust Lexer/Tokenizer, Parser, Y Finance API service, query engine, and an Abstract Syntax Tree (AST) evaluator. The source code cannot be shared due to academic integrity policies. Shoutout to Benny Chinvanich, Connor Morrison, Manushree Singhania, and Matthew Mung!",
+      "compactText": "Stock Trading DSL - CPSC 410 Academic Project",
+      "dotColor": "#2196F3"
     },
     {
       "title": "Where's Waldo?",
@@ -432,7 +452,7 @@
       "prize": "1st Place Overall",
       "description": "Presented recommendations to increase Teaboco's UBC presence and obtain a B Corp Certification through influencer marketing and in-person campus partnerships. Shoutout to Bonnie Xie, Katerina Chen, and Saren Vathanak!",
       "link": "https://drive.google.com/file/d/18aj-xdyY4mHRFzu8sw8C0YVIeS4zxdV9/view?usp=sharing",
-      "compactText": "Teaboco - 1st @ VSEUS x 180DC Case Competition",
+      "compactText": "🏆 Teaboco - 1st @ VSEUS x 180DC Case Competition",
       "dotColor": "#7CB6BD"
     },
     {
@@ -443,7 +463,7 @@
       "prize": "2nd Place (Senior Case)",
       "description": "Tackled new product growth for TELUS MyPet by implementing an AI Assistant, introducing hybrid pricing, designing a new vet directory and funding partnerships. Shoutout to Bonnie Xie, Grace Kim, and Newgen Bao!",
       "link": "https://github.com/Kevinxygu/imprint-TELUS",
-      "compactText": "TELUS - 2nd @ UBC Imprint Case Competition (Finals)",
+      "compactText": "🏆 TELUS - 2nd @ UBC Imprint Case Competition (Finals)",
       "dotColor": "#66CC00"
     },
     {
@@ -454,7 +474,7 @@
       "prize": "2nd Place (Senior Case)",
       "description": "Implemented a master rebrand for TELUS to showcase its diverse product lines and help them STAND OUT, SHARE OUT, and HELP OUT. Shoutout to Bonnie Xie, Grace Kim, and Newgen Bao!",
       "link": "https://github.com/Kevinxygu/imprint-TELUS",
-      "compactText": "TELUS - 2nd @ UBC Imprint Case Competition (Prelims)",
+      "compactText": "🏆 TELUS - 2nd @ UBC Imprint Case Competition (Prelims)",
       "dotColor": "#4B286D"
     },
     {
@@ -465,7 +485,7 @@
       "prize": "2nd Place (Hootsuite Challenge)",
       "description": "Presented Hootsuite Connect: A new feature to connect brand influencers with businesses to create authentic social media content. Shoutout to Borna Shani and Eric Gadbois!",
       "link": "https://drive.google.com/file/d/1RLcg40NO6Z0SE6jdfwWS2lyMhhzBfStZ/view?usp=sharing",
-      "compactText": "Hootsuite - 2nd @ UBC Product Sprint (Hootsuite Challenge)",
+      "compactText": "🏆 Hootsuite - 2nd @ UBC Product Sprint (Hootsuite Challenge)",
       "dotColor": "#FF4C46"
     },
     {

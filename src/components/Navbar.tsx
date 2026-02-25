@@ -10,7 +10,6 @@ export function Navbar({ isCompact, onToggleCompact }: NavbarProps) {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   const navItems = [
-    { label: 'Home', href: '#home' },
     { label: 'Experience', href: '#experience' },
     { label: 'Projects', href: '#projects' },
     { label: 'Cases', href: '#cases' },
@@ -20,7 +19,12 @@ export function Navbar({ isCompact, onToggleCompact }: NavbarProps) {
   const scrollToSection = (href: string) => {
     const element = document.querySelector(href);
     if (element) {
-      element.scrollIntoView({ behavior: 'smooth' });
+      if (isCompact) {
+        element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      } else {
+        const top = element.getBoundingClientRect().top + window.scrollY - 80;
+        window.scrollTo({ top, behavior: 'smooth' });
+      }
       setIsMobileMenuOpen(false);
     }
   };
@@ -39,7 +43,7 @@ export function Navbar({ isCompact, onToggleCompact }: NavbarProps) {
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center gap-8">
-            {!isCompact && navItems.map((item) => (
+            {navItems.map((item) => (
               <button
                 key={item.label}
                 onClick={() => scrollToSection(item.href)}
@@ -60,14 +64,14 @@ export function Navbar({ isCompact, onToggleCompact }: NavbarProps) {
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                     <rect x="3" y="3" width="7" height="7" /><rect x="14" y="3" width="7" height="7" /><rect x="14" y="14" width="7" height="7" /><rect x="3" y="14" width="7" height="7" />
                   </svg>
-                  <span>Expanded View</span>
+                  <span>Toggle Expanded View</span>
                 </>
               ) : (
                 <>
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                     <line x1="8" y1="6" x2="21" y2="6" /><line x1="8" y1="12" x2="21" y2="12" /><line x1="8" y1="18" x2="21" y2="18" /><line x1="3" y1="6" x2="3.01" y2="6" /><line x1="3" y1="12" x2="3.01" y2="12" /><line x1="3" y1="18" x2="3.01" y2="18" />
                   </svg>
-                  <span>Compact View</span>
+                  <span>Toggle Compact View</span>
                 </>
               )}
             </button>
@@ -96,19 +100,17 @@ export function Navbar({ isCompact, onToggleCompact }: NavbarProps) {
               )}
             </button>
 
-            {!isCompact && (
-              <button
-                onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-                className="text-white hover:text-palette-medium-green transition-colors"
-              >
-                {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
-              </button>
-            )}
+            <button
+              onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+              className="text-white hover:text-palette-medium-green transition-colors"
+            >
+              {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
+            </button>
           </div>
         </div>
 
         {/* Mobile Menu */}
-        {isMobileMenuOpen && !isCompact && (
+        {isMobileMenuOpen && (
           <div className="md:hidden py-4 border-t border-palette-medium-green/20">
             {navItems.map((item) => (
               <button

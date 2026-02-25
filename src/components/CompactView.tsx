@@ -85,7 +85,7 @@ export function CompactView({ experiences, projects, cases, extracurriculars }: 
         </div>
 
         {/* Experience */}
-        <div className="mb-10 pb-10 border-b border-palette-medium-green/20">
+        <div id="experience" className="mb-10 pb-10 border-b border-palette-medium-green/20">
           <h2 className="text-xs font-semibold uppercase tracking-widest text-white mb-4">Experience</h2>
           <div className="columns-1 md:columns-2 gap-x-12">
             {experiences.map((exp, i) => (
@@ -100,7 +100,7 @@ export function CompactView({ experiences, projects, cases, extracurriculars }: 
         </div>
 
         {/* Projects */}
-        <div className="mb-10 pb-10 border-b border-palette-medium-green/20">
+        <div id="projects" className="mb-10 pb-10 border-b border-palette-medium-green/20">
           <h2 className="text-xs font-semibold uppercase tracking-widest text-white mb-4">Technical Projects</h2>
           <div className="columns-1 md:columns-2 gap-x-12">
             {projects.map((project, i) => (
@@ -115,7 +115,7 @@ export function CompactView({ experiences, projects, cases, extracurriculars }: 
         </div>
 
         {/* Cases */}
-        <div className="mb-10 pb-10 border-b border-palette-medium-green/20">
+        <div id="cases" className="mb-10 pb-10 border-b border-palette-medium-green/20">
           <h2 className="text-xs font-semibold uppercase tracking-widest text-white mb-4">Case Studies & Competitions</h2>
           <div className="columns-1 md:columns-2 gap-x-12">
             {cases.map((c, i) => (
@@ -130,8 +130,8 @@ export function CompactView({ experiences, projects, cases, extracurriculars }: 
         </div>
 
         {/* Extracurriculars */}
-        <div className="mb-10">
-          <h2 className="text-xs font-semibold uppercase tracking-widest text-white mb-4">Extracurriculars</h2>
+        <div id="community" className="mb-10">
+          <h2 className="text-xs font-semibold uppercase tracking-widest text-white mb-4">Community</h2>
           <div className="columns-1 md:columns-2 gap-x-12">
             {extracurriculars.map((ec, i) => (
               <CompactListItem
