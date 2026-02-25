@@ -39,7 +39,8 @@ export function CompactView({ experiences, projects, cases, extracurriculars }: 
         {/* Header */}
         <div className="mb-8">
           <p className="text-zinc-300 text-base max-w-2xl leading-relaxed">
-            Hi, I&apos;m Kevin! I&apos;m interested in combining software engineering and sales to build solutions tackling difficult problems, educate others, and support my community
+            Hi, I&apos;m Kevin! I&apos;m combining software engineering and sales to build solutions to hard problems, drive social good, and empower the next person
+
           </p>
 
           {/* Contact icons */}

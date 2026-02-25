@@ -47,7 +47,8 @@ export default function HomePage() {
                     I&apos;m Kevin
                   </h1>
                   <p className="text-lg md:text-xl text-zinc-300 mb-8 max-w-xl">
-                    I&apos;m interested in combining software engineering and sales to build solutions tackling difficult problems, educate others, and support my community
+                    I&apos;m combining software engineering and sales to build solutions to hard problems, drive social good, and empower the next person
+
                   </p>
                   {/* socials */}
                   <div className="flex gap-2 mb-8">
