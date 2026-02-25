@@ -439,7 +439,7 @@
         "encryption"
       ],
       "description": "A collection of projects from UBC'S CPSC 317: Computer Networking written in Java and C. The projects primarily cover socket programming and various network protocols. The source code cannot be shared due to academic integrity policies.",
-      "compactText": "Computer Networking Projects – CPSC 317 Academic Project",
+      "compactText": "Computer Networking Projects - CPSC 317 Academic Project",
       "dotColor": "#888888"
     }
   ],
@@ -580,7 +580,7 @@
         "Sponsorship Coordinator"
       ],
       "link": "https://nwplus.io/",
-      "compactText": "nwPlus – Treasurer & Sponsorship Lead",
+      "compactText": "nwPlus - Treasurer & Sponsorship Lead",
       "dotColor": "#72FE9A"
     },
     {
@@ -592,7 +592,7 @@
         "Senior Pro Bono Consultant - Studios"
       ],
       "link": "https://www.ubcma.ca/",
-      "compactText": "UBCMA – Software Engineer & Sr. Consultant",
+      "compactText": "UBCMA - Software Engineer & Sr. Consultant",
       "dotColor": "#EF3051"
     },
     {
@@ -605,7 +605,7 @@
         "External Relations"
       ],
       "link": "https://www.ubcesports.ca/",
-      "compactText": "UBCEA – SWE, PM & External Relations",
+      "compactText": "UBCEA - SWE, PM & External Relations",
       "dotColor": "#3360F2"
     },
     {
@@ -616,7 +616,7 @@
         "Competitions Director"
       ],
       "link": "https://www.saudersummit.ca/",
-      "compactText": "Sauder Summit – Competitions Director",
+      "compactText": "Sauder Summit - Competitions Director",
       "dotColor": "#FFFFFF"
     },
     {
@@ -630,7 +630,7 @@
         "Ennovate Project Associate"
       ],
       "link": "https://enactusubc.ca/",
-      "compactText": "Enactus UBC – Tech Advisor & Lead SWE",
+      "compactText": "Enactus UBC - Tech Advisor, Lead SWE, Ennovate",
       "dotColor": "#FEC128"
     },
     {
@@ -642,7 +642,7 @@
         "Conference Experience Coordinator (CEC)"
       ],
       "link": "https://www.thenscc.com/",
-      "compactText": "NSCC – Conference Associate & CEC",
+      "compactText": "NSCC - Conference Associate & CEC",
       "dotColor": "#526572"
     },
     {
@@ -653,7 +653,7 @@
         "Hackathon Mentor"
       ],
       "link": "https://www.ubcbiztech.com/",
-      "compactText": "HelloHacks – Hackathon Mentor",
+      "compactText": "HelloHacks - Hackathon Mentor",
       "dotColor": "#888888"
     },
     {
@@ -665,7 +665,7 @@
         "First Year Rep"
       ],
       "link": "http://ubcbucs.ca/",
-      "compactText": "BUCS – Chair & First Year Rep",
+      "compactText": "BUCS - Chair & First Year Rep",
       "dotColor": "#65B5F0"
     },
     {
@@ -677,7 +677,7 @@
         "Orientation Leader - 2023"
       ],
       "link": "https://www.ubcsauderspark.com/",
-      "compactText": "UBC Sauder Orientations – Orientation Leader",
+      "compactText": "UBC Sauder Orientations - Orientation Leader",
       "dotColor": "#77BF42"
     }
   ]
