@@ -8,6 +8,8 @@ interface Project {
   tags: string[];
   prize?: string;
   description: string;
+  compactText?: string;
+  dotColor?: string;
 }
 
 interface ProjectSearchFilterProps {

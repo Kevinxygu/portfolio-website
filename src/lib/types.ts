@@ -11,6 +11,8 @@ export interface ExperienceData {
   tags: Tag[];
   description: string;
   link?: string;
+  compactText?: string;
+  dotColor?: string;
 }
 
 export interface ProjectData {
@@ -20,6 +22,8 @@ export interface ProjectData {
   tags: string[];
   prize?: string;
   description: string;
+  compactText?: string;
+  dotColor?: string;
 }
 
 export interface CaseData {
@@ -29,6 +33,9 @@ export interface CaseData {
   companyName: string;
   prize?: string;
   description: string;
+  link?: string;
+  compactText?: string;
+  dotColor?: string;
 }
 
 export interface ExtracurricularData {
@@ -36,6 +43,9 @@ export interface ExtracurricularData {
   description: string;
   imagePath: string;
   roles: string[];
+  link?: string;
+  compactText?: string;
+  dotColor?: string;
 }
 
 export interface PortfolioData {

@@ -1,5 +1,4 @@
 @import "tailwindcss";
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 
 :root {
   --background: #ffffff;
@@ -7,7 +6,7 @@
 }
 
 @theme {
-  --color-palette-dark-green: #061F20;
+  --color-palette-dark-green: #0B1818;
   --color-palette-tan: #DDD8CA;
   --color-palette-light-green: #DAF1DE;
   --color-palette-medium-green: #8EB69B;
@@ -24,5 +23,20 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: "IBM Plex Sans", sans-serif;
+  font-family: var(--font-roboto), "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+strong,
+b {
+  font-weight: 500;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 500;
 }

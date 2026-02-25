@@ -1,19 +1,19 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import { IBM_Plex_Sans } from "next/font/google";
+import { Roboto } from "next/font/google";
 import { IBM_Plex_Mono } from 'next/font/google';
 
-const ibmPlexMono = IBM_Plex_Mono({ 
+const ibmPlexMono = IBM_Plex_Mono({
   subsets: ['latin'],
   weight: ['400', '500', '600'],
   variable: '--font-ibm-plex-mono',
 });
 
-const ibmPlexSans = IBM_Plex_Sans({
+const roboto = Roboto({
   subsets: ["latin"],
-  variable: "--font-ibm-plex-sans",
+  variable: "--font-roboto",
   display: "swap",
-  weight: ['100', '200', '300', '400', '500', '600', '700'],
+  weight: ['100', '300', '400', '500', '700'],
 });
 
 export const metadata: Metadata = {
@@ -29,7 +29,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-          className={`${ibmPlexSans.variable} bg-background text-foreground`}
+          className={`${roboto.variable} bg-background text-foreground`}
       >
         {children}
       </body>

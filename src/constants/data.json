@@ -14,7 +14,9 @@
         }
       ],
       "description": "I'm 1 of 9 students coaching UBC Sauder students, with a focus on the BUCS (business + computer science) path! Shoutout to Jonathan McQuarrie, Lauren du Toit, David Edwards, Val Ke and my fellow CPAs!",
-      "link": "https://mybcom.sauder.ubc.ca/career-experience/career-coaching/career-peer-advisors"
+      "link": "https://mybcom.sauder.ubc.ca/career-experience/career-resources/cool-career-platform",
+      "compactText": "Career Peer Advisor - UBC Sauder Career Centre",
+      "dotColor": "#FFFFFF"
     },
     {
       "title": "Software Engineer Intern @ TELUS",
@@ -42,10 +44,12 @@
         }
       ],
       "description": "Drove automation and AI innovation for the Ops Capital Management team managing a billion-dollar budget. Shoutout to Sean Phoenix, Ricardo Castillo, Terry Kaplan, Pooja Singh and Mursal Khyabani!",
-      "link": "https://www.telus.com/en/about"
+      "link": "https://www.telus.com/en/about",
+      "compactText": "Software Engineer Intern - TELUS",
+      "dotColor": "#66CC00"
     },
     {
-      "title": "Solutions Engineer Intern @ Trulioo",
+      "title": "Sales Engineer Intern @ Trulioo",
       "imagePath": "/images/experience/trulioo-banner.png",
       "tags": [
         {
@@ -70,7 +74,9 @@
         }
       ],
       "description": "Supported B2B SaaS sales deals as technical experts for Trulioo: an identity verification unicorn! Shoutout to Michael Nolan, Shaun Singh and the SC team!",
-      "link": "https://www.trulioo.com/"
+      "link": "https://www.trulioo.com/",
+      "compactText": "Sales Engineer Intern - Trulioo (B2B Tech Unicorn)",
+      "dotColor": "#5B998A"
     },
     {
       "title": "Software Engineer + Business Systems Analyst Co-op @ ICBC",
@@ -89,8 +95,10 @@
           "icon": "/icons/docker.png"
         }
       ],
-      "description": "Built automation tools for ICBC’s Business Innovation and RPA team. Became first co-op to adopt a dual software engineer / business systems analyst role. Shoutout to Ritchie Macapinlac, Gurinder Johal, and Chris Port!",
-      "link": "https://icbc.com/"
+      "description": "Built automation tools for ICBC's Business Innovation and RPA team. Became first co-op to adopt a dual software engineer / business systems analyst role. Shoutout to Ritchie Macapinlac, Gurinder Johal, and Chris Port!",
+      "link": "https://icbc.com/",
+      "compactText": "Software Engineer + BSA Co-op - ICBC",
+      "dotColor": "#00AEEF"
     },
     {
       "title": "Software Engineer Intern @ Cyberium Group",
@@ -118,7 +126,9 @@
         }
       ],
       "description": "Implemented governance, risk, and compliance solutions for clients in a nimble 10-person cybersecurity startup. Shoutout to Tejinder Basi and Hetash Parmar!",
-      "link": "https://www.cyberiumgroup.com/"
+      "link": "https://www.cyberiumgroup.com/",
+      "compactText": "Software Engineer Intern - Cyberium Group (Cybersecurity Startup)",
+      "dotColor": "#00489D"
     },
     {
       "title": "COMM 190 TA @ UBC Sauder",
@@ -138,7 +148,9 @@
         }
       ],
       "description": "TA'd COMM 190: Quantitative Decision Analysis, Linear Programming + Probability after scoring 100 in the course. Shoutout to Greg Werker and Tim Huh!",
-      "link": "https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-190"
+      "link": "https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-190",
+      "compactText": "COMM 190 Teaching Assistant - UBC Sauder",
+      "dotColor": "#FFFFFF"
     }
   ],
   "projects": [
@@ -160,7 +172,9 @@
         "browserbase"
       ],
       "prize": "🏆 1st (Anthropic Track + Decagon Prize) - Stanford Treehacks",
-      "description": "We won first place twice at Stanford's Treehacks: The world's most prestigous hackathon with 1,100+ hackers out of 15,000+ applicants! We won first in the Anthropic Human Flourishing Track out of 252 projects, and the Decagon Prize for Best Conversation Assistant out of 82 projects. Bloom is a voice-first agentic assistant powered by Claude and ElevenLabs that helps seniors book Ubers, manage medications, and navigate the web all through natural conversation. It also monitors for early signs of cognitive decline through speech pattern analysis, combats loneliness with reminiscence therapy + family media sharing, and streams real-time health metrics from wearables to caretakers. Shoutout to Paul Tiberghien, Vaibhav Sharma, and Alberto Escobar Mingo!"
+      "description": "We won first place twice at Stanford's Treehacks: The world's most prestigous hackathon with 1,100+ hackers out of 15,000+ applicants! We won first in the Anthropic Human Flourishing Track out of 252 projects, and the Decagon Prize for Best Conversation Assistant out of 82 projects. Bloom is a voice-first agentic assistant powered by Claude and ElevenLabs that helps seniors book Ubers, manage medications, and navigate the web all through natural conversation. It also monitors for early signs of cognitive decline through speech pattern analysis, combats loneliness with reminiscence therapy + family media sharing, and streams real-time health metrics from wearables to caretakers. Shoutout to Paul Tiberghien, Vaibhav Sharma, and Alberto Escobar Mingo!",
+      "compactText": "Bloom - 1st @ Treehacks, Stanford (Anthropic Track + Decagon Prize)",
+      "dotColor": "#5B998A"
     },
     {
       "title": "PitchLab",
@@ -180,7 +194,9 @@
         "ai agents"
       ],
       "prize": "🏆 3rd (Rox Tech Prize) - Cal Hacks (MLH)",
-      "description": "My solo hack at Cal Hacks 12.0, the largest collegiate hackathon in the world with 3,600+ hackers! I placed 3rd in the Rox Tech prize track, focused on building AI agents using LLMs that act autonomously on real-world data. I built PitchLab end-to-end: a sales tool that generates mock sales calls so you can practicing talking to your prospect, before you actually do. We then shipped this project to 150+ users in 24 hours as part of UBC BizTech's KickStart startup competition!"
+      "description": "My solo hack at Cal Hacks 12.0, the largest collegiate hackathon in the world with 3,600+ hackers! I placed 3rd in the Rox Tech prize track, focused on building AI agents using LLMs that act autonomously on real-world data. I built PitchLab end-to-end: a sales tool that generates mock sales calls so you can practicing talking to your prospect, before you actually do. We then shipped this project to 150+ users in 24 hours as part of UBC BizTech's KickStart startup competition!",
+      "compactText": "PitchLab - 3rd @ Cal Hacks, UC Berkeley (Rox Tech Prize)",
+      "dotColor": "#3136E6"
     },
     {
       "title": "TELUS Form Coach",
@@ -203,8 +219,10 @@
         "computer vision",
         "regression analysis"
       ],
-      "prize": "🏆 1st Place - TELUS Data & AI Hackathon",
-      "description": "A new feature on the TELUS Health & Wellbeing app that evaluates your exercise form with computer vision. After winning, our team is now exploring ways to integrate this solution into existing TELUS products and services! Shoutout to Pedro Soares and Arianne Rull!"
+      "prize": "🏆 1st - TELUS Data & AI Hackathon",
+      "description": "A new feature on the TELUS Health & Wellbeing app that evaluates your exercise form with computer vision. After winning, our team is now exploring ways to integrate this solution into existing TELUS products and services! Shoutout to Pedro Soares and Arianne Rull!",
+      "compactText": "Form Coach - 1st @ TELUS Data & AI Hackathon",
+      "dotColor": "#66CC00"
     },
     {
       "title": "Nerve",
@@ -230,7 +248,9 @@
         "sentiment analysis"
       ],
       "prize": "🏆 2nd Place + 🏆 Startup Winner - ProductX",
-      "description": "Competed alongside three other Kevins at UBC ProductX, UBC BizTech's flagship hackathon. A real-time monitoring dashboard for emergency dispatch units, powered with sentiment analysis and critical event detection. We modernized existing legacy systems that are outdated and have lead to lost lives, lost time, and lost resources. Shoutout to Kevin Hu, Kevin Tan, Kevin Xiao!"
+      "description": "Competed alongside three other Kevins at UBC ProductX, UBC BizTech's flagship hackathon. A real-time monitoring dashboard for emergency dispatch units, powered with sentiment analysis and critical event detection. We modernized existing legacy systems that are outdated and have lead to lost lives, lost time, and lost resources. Shoutout to Kevin Hu, Kevin Tan, Kevin Xiao!",
+      "compactText": "Nerve - 2nd + Startup Winner @ BizTech ProductX, UBC",
+      "dotColor": "#888888"
     },
     {
       "title": "Safely",
@@ -259,15 +279,9 @@
         "mlh"
       ],
       "prize": "HackHarvard @ Harvard University (MLH)",
-      "description": "Our submission at HackHarvard 10! Safely Today is a personal safety app that uses websockets, AI and sentiment analysis to monitor you and your peers' real time locations and alert authorities automatically when distress is detected. Shoutout to Gage Howe, Saketh Poori, and Adam Torres Encarnacion for the great weekend and for teaching me so much about tech!"
-    },
-    {
-      "title": "TreeHacks @ Stanford University",
-      "imagePath": "/images/projects/treehacks-banner.png",
-      "githubLink": "https://treehacks.com/",
-      "tags": [],
-      "prize": "TreeHacks @ Stanford University (MLH)",
-      "description": "One of 1000+ hackers accepted out of 15,000+ applicants for TreeHacks, Stanford's premier hackathon! Stay tuned on what we build :)"
+      "description": "Our submission at HackHarvard 10! Safely Today is a personal safety app that uses websockets, AI and sentiment analysis to monitor you and your peers' real time locations and alert authorities automatically when distress is detected. Shoutout to Gage Howe, Saketh Poori, and Adam Torres Encarnacion for the great weekend and for teaching me so much about tech!",
+      "compactText": "Safely - HackHarvard, Harvard University",
+      "dotColor": "#9B0000"
     },
     {
       "title": "Meme-o-Tron",
@@ -285,7 +299,9 @@
         "computer vision"
       ],
       "prize": "🏆 Winner - BUCS Hackathon",
-      "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and prepare to get roasted. Shoutout to Ryan Haraki and Alison Hardy!"
+      "description": "We built a Jumbotron lookalike cam, like those you might see at hockey games! Upload a photo and prepare to get roasted. Shoutout to Ryan Haraki and Alison Hardy!",
+      "compactText": "Meme-o-Tron - 1st @ BUCS Hackathon, UBC",
+      "dotColor": "#FFFFFF"
     },
     {
       "title": "UBC Esports Lounge App",
@@ -306,7 +322,9 @@
         "vercel"
       ],
       "prize": "🏆 Best Internal Department",
-      "description": "Replaced a manual lounge check-in process with a sleek web app! Currently exploring a new monorepo architecture for the backend as we roll out new features for UBC's gaming community. Shoutout to Josh Wu and Jaden Hums, my dev leads and the rest of the team!"
+      "description": "Replaced a manual lounge check-in process with a sleek web app! Currently exploring a new monorepo architecture for the backend as we roll out new features for UBC's gaming community. Shoutout to Josh Wu and Jaden Hums, my dev leads and the rest of the team!",
+      "compactText": "UBC Esports Lounge App - Best Internal Department",
+      "dotColor": "#3360F2"
     },
     {
       "title": "Dance Dance ReVision",
@@ -325,7 +343,9 @@
         "mlh"
       ],
       "prize": "Hack Western 11 @ Western University (MLH)",
-      "description": "Dance-Dance ReVision brings you the classic Dance-Dance Revolution (DDR) arcade rhythm game right to your computer. Dance with computer vision! Shoutout to Andrew Fenton and Khoa Bui for hacking with me at Hack Western 11!"
+      "description": "Dance-Dance ReVision brings you the classic Dance-Dance Revolution (DDR) arcade rhythm game right to your computer. Dance with computer vision! Shoutout to Andrew Fenton and Khoa Bui for hacking with me at Hack Western 11!",
+      "compactText": "Dance Dance ReVision - Hack Western, Western University",
+      "dotColor": "#9A64F6"
     },
     {
       "title": "UBCMA Membership Portal",
@@ -343,18 +363,9 @@
         "tailwindcss",
         "vercel"
       ],
-      "description": "A full-stack web app for the UBC Marketing Association memberships supporting event registration, payment processing, and member management. Shoutout to Ethan Hansen, Daniel Lee, Janaye Cheong, and Angela Huang!"
-    },
-    {
-      "title": "Where's Waldo?",
-      "imagePath": "/images/projects/wheres-waldo-banner.png",
-      "githubLink": "https://wheres-waldo-game.netlify.app/",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "vite"
-      ],
-      "description": "Classic Where's Waldo! Give it a try by clicking above :)"
+      "description": "A full-stack web app for the UBC Marketing Association memberships supporting event registration, payment processing, and member management. Shoutout to Ethan Hansen, Daniel Lee, Janaye Cheong, and Angela Huang!",
+      "compactText": "UBCMA Membership Portal",
+      "dotColor": "#EF3050"
     },
     {
       "title": "InsightUBC",
@@ -373,7 +384,22 @@
         "rest api design",
         "tdd"
       ],
-      "description": "A full-stack web application visualizing UBC course and building data. I built a custom query engine from scratch in TypeScript, and exposes REST APIs in the backend using Express. This project was a deep dive into software engineering principles, emphasizing Test-Driven Development (TDD) with a comprehensive Mocha/Chai test suite, asynchronous programming, and clean architecture. The source code cannot be shared due to academic integrity policies. Shoutout my partner Kevin Tan!"
+      "description": "A full-stack web application visualizing UBC course and building data. I built a custom query engine from scratch in TypeScript, and exposes REST APIs in the backend using Express. This project was a deep dive into software engineering principles, emphasizing Test-Driven Development (TDD) with a comprehensive Mocha/Chai test suite, asynchronous programming, and clean architecture. The source code cannot be shared due to academic integrity policies. Shoutout my partner Kevin Tan!",
+      "compactText": "InsightUBC - CPSC 310 Academic Project",
+      "dotColor": "#FFFFFF"
+    },
+    {
+      "title": "Where's Waldo?",
+      "imagePath": "/images/projects/wheres-waldo-banner.png",
+      "githubLink": "https://wheres-waldo-game.netlify.app/",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "vite"
+      ],
+      "description": "Classic Where's Waldo! Give it a try by clicking above :)",
+      "compactText": "Where's Waldo?",
+      "dotColor": "#EF2223"
     },
     {
       "title": "Computer Networking Projects",
@@ -392,7 +418,9 @@
         "multithreading",
         "encryption"
       ],
-      "description": "A collection of projects from UBC'S CPSC 317: Computer Networking written in Java and C. The projects primarily cover socket programming and various network protocols. The source code cannot be shared due to academic integrity policies."
+      "description": "A collection of projects from UBC'S CPSC 317: Computer Networking written in Java and C. The projects primarily cover socket programming and various network protocols. The source code cannot be shared due to academic integrity policies.",
+      "compactText": "Computer Networking Projects – CPSC 317 Academic Project",
+      "dotColor": "#888888"
     }
   ],
   "cases": [
@@ -403,7 +431,9 @@
       "companyName": "Teaboco",
       "prize": "1st Place Overall",
       "description": "Presented recommendations to increase Teaboco's UBC presence and obtain a B Corp Certification through influencer marketing and in-person campus partnerships. Shoutout to Bonnie Xie, Katerina Chen, and Saren Vathanak!",
-      "link": "https://drive.google.com/file/d/18aj-xdyY4mHRFzu8sw8C0YVIeS4zxdV9/view?usp=sharing"
+      "link": "https://drive.google.com/file/d/18aj-xdyY4mHRFzu8sw8C0YVIeS4zxdV9/view?usp=sharing",
+      "compactText": "Teaboco - 1st @ VSEUS x 180DC Case Competition",
+      "dotColor": "#7CB6BD"
     },
     {
       "title": "UBC Imprint Marketing Case Competition Final Round",
@@ -412,7 +442,9 @@
       "companyName": "TELUS",
       "prize": "2nd Place (Senior Case)",
       "description": "Tackled new product growth for TELUS MyPet by implementing an AI Assistant, introducing hybrid pricing, designing a new vet directory and funding partnerships. Shoutout to Bonnie Xie, Grace Kim, and Newgen Bao!",
-      "link": "https://github.com/Kevinxygu/imprint-TELUS"
+      "link": "https://github.com/Kevinxygu/imprint-TELUS",
+      "compactText": "TELUS - 2nd @ UBC Imprint Case Competition (Finals)",
+      "dotColor": "#66CC00"
     },
     {
       "title": "UBC Imprint Marketing Case Competition Preliminary Round",
@@ -421,7 +453,9 @@
       "companyName": "TELUS",
       "prize": "2nd Place (Senior Case)",
       "description": "Implemented a master rebrand for TELUS to showcase its diverse product lines and help them STAND OUT, SHARE OUT, and HELP OUT. Shoutout to Bonnie Xie, Grace Kim, and Newgen Bao!",
-      "link": "https://github.com/Kevinxygu/imprint-TELUS"
+      "link": "https://github.com/Kevinxygu/imprint-TELUS",
+      "compactText": "TELUS - 2nd @ UBC Imprint Case Competition (Prelims)",
+      "dotColor": "#4B286D"
     },
     {
       "title": "UBC Product Sprint Product Challenge",
@@ -430,7 +464,9 @@
       "companyName": "Hootsuite",
       "prize": "2nd Place (Hootsuite Challenge)",
       "description": "Presented Hootsuite Connect: A new feature to connect brand influencers with businesses to create authentic social media content. Shoutout to Borna Shani and Eric Gadbois!",
-      "link": "https://drive.google.com/file/d/1RLcg40NO6Z0SE6jdfwWS2lyMhhzBfStZ/view?usp=sharing"
+      "link": "https://drive.google.com/file/d/1RLcg40NO6Z0SE6jdfwWS2lyMhhzBfStZ/view?usp=sharing",
+      "compactText": "Hootsuite - 2nd @ UBC Product Sprint (Hootsuite Challenge)",
+      "dotColor": "#FF4C46"
     },
     {
       "title": "COMM 395 New Ideas Case",
@@ -438,7 +474,9 @@
       "companyLogoPath": "/images/logos/meta.png",
       "companyName": "Meta",
       "description": "Pitched a new marketplace for Meta Business Suite + Creator Studio connecting gaming creators to brand partnerships. Class cases are kept proprietary.",
-      "link": "https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-395"
+      "link": "https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-395",
+      "compactText": "Meta - COMM 395 Academic Case",
+      "dotColor": "#0082fb"
     },
     {
       "title": "UBC eProjects Pitchathon",
@@ -446,7 +484,9 @@
       "companyLogoPath": "/images/logos/microsoft.png",
       "companyName": "Microsoft",
       "description": "Presented Microsoft RUBY: a new city-wide dispatch system for emergency services to reduce response times and save lives, implemented with Microsoft Azure IoT services. Shoutout to Elaine Li, John Grey and Marina Yu!",
-      "link": "https://drive.google.com/file/d/14A1aYvrk81BKu8vV5G6Uft-zIloxxwx1/view?usp=sharing"
+      "link": "https://drive.google.com/file/d/14A1aYvrk81BKu8vV5G6Uft-zIloxxwx1/view?usp=sharing",
+      "compactText": "Microsoft - eProjects Pitchathon",
+      "dotColor": "#7EB900"
     },
     {
       "title": "JDC West Summer Development Initial Case Round",
@@ -454,7 +494,9 @@
       "companyLogoPath": "/images/logos/uber.png",
       "companyName": "Uber",
       "description": "Presented a two-pronged approach: Uber For Us and Uber For You to tackle regulatory hurdles, driver trust, and geographic variance.",
-      "link": "https://drive.google.com/file/d/1f3iP-15cGo7DxvMrtiWSvPL--zJ_B_XX/view?usp=sharing"
+      "link": "https://drive.google.com/file/d/1f3iP-15cGo7DxvMrtiWSvPL--zJ_B_XX/view?usp=sharing",
+      "compactText": "Uber - JDC West Summer Development Initial Round",
+      "dotColor": "#FFFFFF"
     },
     {
       "title": "UBCMA Studios Pro Bono Consulting",
@@ -462,7 +504,9 @@
       "companyLogoPath": "/images/logos/fashionoise.png",
       "companyName": "Fashionoise",
       "description": "Consulted for a local Vancouver jewelry business by building their brand identity, designing a new website, and developing a multi-channel marketing strategy with Meta Ads, SEO, influencer partnerships, and social media content. Shoutout to Elishia Yeung, Adeline Chan, Jessica Oh, Jayden Tsai, Priya Sidhu and Geonwoo Park!",
-      "link": "https://drive.google.com/file/d/1xcoIXCsrHGQ-J5UncXqId-WaIw7n38jY/view?usp=sharing"
+      "link": "https://drive.google.com/file/d/1xcoIXCsrHGQ-J5UncXqId-WaIw7n38jY/view?usp=sharing",
+      "compactText": "Fashionoise - UBCMA Studios Pro Bono Consulting",
+      "dotColor": "#EF3050"
     },
     {
       "title": "COMM 296 Case Assignment",
@@ -470,7 +514,9 @@
       "companyLogoPath": "/images/logos/apple.png",
       "companyName": "Apple",
       "description": "Presented a new Apple creator network and a new app interface to connect creators, influencers, and marketing voices for the Apple ecosystem. Class cases are kept proprietary. Shoutout to Jasmine Chen, Khoa Bui, Navit Kaur and Fei Gao!",
-      "link": "https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-296"
+      "link": "https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-296",
+      "compactText": "Apple - COMM 296 Case Assignment",
+      "dotColor": "#AAAAAA"
     },
     {
       "title": "COMM 396 Industry Research Case",
@@ -478,7 +524,9 @@
       "companyLogoPath": "/images/logos/salesforce.png",
       "companyName": "Salesforce",
       "description": "Completed a market research report on Salesforce's Solutions Engineer role, and the company's overall position in the CRM market. Performed industry analysis and researched the future roadmap of Agentforce. Class cases are kept proprietary.",
-      "link": "https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-396"
+      "link": "https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-396",
+      "compactText": "Salesforce - COMM 396 Industry Research Case",
+      "dotColor": "#00A1E0"
     },
     {
       "title": "COMM 396 Community Assessment Case",
@@ -486,7 +534,9 @@
       "companyLogoPath": "/images/logos/shopify.png",
       "companyName": "Shopify",
       "description": "Presented new recommendations for Shopify to expand business in Richmond, BC with Indigenous communities through partnerships, grants, and educational resources. Class cases are kept proprietary.",
-      "link": "https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-396"
+      "link": "https://mybcom.sauder.ubc.ca/courses-money-enrolment/courses/comm-396",
+      "compactText": "Shopify - COMM 396 Community Assessment Case",
+      "dotColor": "#95BF46"
     },
     {
       "title": "UBC ProduHacks x EY Product Challenge",
@@ -494,7 +544,9 @@
       "companyLogoPath": "/images/logos/ey.png",
       "companyName": "EY",
       "description": "Presented a prototype for WallEY, a new NFT-based platform to manage loyalty rewards programs. Shoutout to Ryan Haraki, Borna Shani and Colin Grob!",
-      "link": "https://drive.google.com/file/d/1MOokjZu-qRer7BlARbWromIIS98b303v/view?usp=sharing"
+      "link": "https://drive.google.com/file/d/1MOokjZu-qRer7BlARbWromIIS98b303v/view?usp=sharing",
+      "compactText": "EY - ProduHacks x EY Product Challenge",
+      "dotColor": "#FFE600"
     }
   ],
   "extracurriculars": [
@@ -507,7 +559,9 @@
         "Sponsorship Lead",
         "Sponsorship Coordinator"
       ],
-      "link": "https://nwplus.io/"
+      "link": "https://nwplus.io/",
+      "compactText": "nwPlus – Treasurer & Sponsorship Lead",
+      "dotColor": "#72FE9A"
     },
     {
       "title": "UBC Marketing Association (UBCMA)",
@@ -517,7 +571,9 @@
         "Software Engineer",
         "Senior Pro Bono Consultant - Studios"
       ],
-      "link": "https://www.ubcma.ca/"
+      "link": "https://www.ubcma.ca/",
+      "compactText": "UBCMA – Software Engineer & Sr. Consultant",
+      "dotColor": "#EF3051"
     },
     {
       "title": "UBC Esports Association (UBCEA)",
@@ -528,7 +584,9 @@
         "Product Manager",
         "External Relations"
       ],
-      "link": "https://www.ubcesports.ca/"
+      "link": "https://www.ubcesports.ca/",
+      "compactText": "UBCEA – SWE, PM & External Relations",
+      "dotColor": "#3360F2"
     },
     {
       "title": "Sauder Summit Global Case Competition",
@@ -537,7 +595,9 @@
       "roles": [
         "Competitions Director"
       ],
-      "link": "https://www.saudersummit.ca/"
+      "link": "https://www.saudersummit.ca/",
+      "compactText": "Sauder Summit – Competitions Director",
+      "dotColor": "#FFFFFF"
     },
     {
       "title": "Enactus UBC",
@@ -549,7 +609,9 @@
         "Ennovate Tech Lead",
         "Ennovate Project Associate"
       ],
-      "link": "https://enactusubc.ca/"
+      "link": "https://enactusubc.ca/",
+      "compactText": "Enactus UBC – Tech Advisor & Lead SWE",
+      "dotColor": "#FEC128"
     },
     {
       "title": "National Strategy Consulting Case Competition & Conference (NSCC)",
@@ -559,7 +621,9 @@
         "Conference Associate",
         "Conference Experience Coordinator (CEC)"
       ],
-      "link": "https://www.thenscc.com/"
+      "link": "https://www.thenscc.com/",
+      "compactText": "NSCC – Conference Associate & CEC",
+      "dotColor": "#526572"
     },
     {
       "title": "HelloHacks by UBC BizTech",
@@ -568,7 +632,9 @@
       "roles": [
         "Hackathon Mentor"
       ],
-      "link": "https://www.ubcbiztech.com/"
+      "link": "https://www.ubcbiztech.com/",
+      "compactText": "HelloHacks – Hackathon Mentor",
+      "dotColor": "#888888"
     },
     {
       "title": "BUCS Community Team",
@@ -578,7 +644,9 @@
         "Chair",
         "First Year Rep"
       ],
-      "link": "http://ubcbucs.ca/"
+      "link": "http://ubcbucs.ca/",
+      "compactText": "BUCS – Chair & First Year Rep",
+      "dotColor": "#65B5F0"
     },
     {
       "title": "UBC Sauder Orientations",
@@ -588,7 +656,9 @@
         "Orientation Leader - 2024",
         "Orientation Leader - 2023"
       ],
-      "link": "https://www.ubcsauderspark.com/"
+      "link": "https://www.ubcsauderspark.com/",
+      "compactText": "UBC Sauder Orientations – Orientation Leader",
+      "dotColor": "#77BF42"
     }
   ]
 }
