@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { Roboto } from "next/font/google";
 import { IBM_Plex_Mono } from 'next/font/google';
+import { Analytics } from '@vercel/analytics/next';
 
 const ibmPlexMono = IBM_Plex_Mono({
   subsets: ['latin'],
@@ -29,9 +30,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-          className={`${roboto.variable} bg-background text-foreground`}
+        className={`${roboto.variable} bg-background text-foreground`}
       >
         {children}
+        <Analytics />
       </body>
     </html>
   );
