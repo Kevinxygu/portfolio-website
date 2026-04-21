@@ -620,6 +620,18 @@
       "dotColor": "#FFFFFF"
     },
     {
+      "title": "Commerce Mentorship Program",
+      "description": "Lead final review sessions for Excel + R (COMM 205, Business Technology) and Statistics (COMM 191, Business Statistics).",
+      "imagePath": "/images/extracurricular/cmp-banner.png",
+      "roles": [
+        "Tutor - COMM 205",
+        "Tutor - COMM 191"
+      ],
+      "link": "https://www.ubccmp.ca/",
+      "compactText": "Commerce Mentorship Program - Tutor (Excel, R, Statistics)",
+      "dotColor": "#FE8301"
+    },
+    {
       "title": "Enactus UBC",
       "description": "We're UBC's branch for Enactus, a global non-profit organization dedicated to inspiring students to improve the world through entrepreneurial action.",
       "imagePath": "/images/extracurricular/enactus-banner.png",
